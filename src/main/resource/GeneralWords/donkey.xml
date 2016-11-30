@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="donkey"><ew>donkey</ew><subj>AH-1#ZM-1</subj><hw>don*key</hw><sound><wav>donkey11.wav</wav><wpr>!d@N-kE</wpr><wav>donkey02.wav</wav><wpr>!duN-kE</wpr><wav>donkey01.wav</wav><wpr>!doN-kE</wpr></sound><pr>ˈdäŋ-kē, ˈdəŋ-, ˈdȯŋ-</pr><fl>noun</fl><in><il>plural</il> <if>donkeys</if></in><et>origin unknown</et><def><date>circa 1785</date> <sn>1</sn> <dt>:the domestic ass (<it>Equus asinus</it>)</dt> <sn>2</sn> <dt>:a stupid or obstinate person</dt></def></entry>
+	<entry id="donkey engine"><ew>donkey engine</ew><subj>RR-2#ME-1</subj><hw>donkey engine</hw><fl>noun</fl><def><date>1858</date> <sn>1</sn> <dt>:a small usually portable auxiliary engine</dt> <sn>2</sn> <dt>:a small locomotive used in switching</dt></def></entry>
+	<entry id="donkey jacket"><ew>donkey jacket</ew><subj>CL</subj><hw>donkey jacket</hw><fl>noun</fl><def><date>1929</date><sl>British</sl><dt>:a jacket of heavy material worn especially by laborers</dt></def></entry>
+	<entry id="donkey's years"><ew>donkey's years</ew><hw>donkey's years</hw><fl>noun plural</fl><def><date>1927</date><sl>chiefly British</sl><dt>:a very long time</dt></def></entry>
+</entry_list>

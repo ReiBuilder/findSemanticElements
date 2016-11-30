@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="restaurant"><ew>restaurant</ew><subj>BZ#FD</subj><hw>res*tau*rant</hw><sound><wav>restau01.wav</wav><wpr>!res-tu-+r@nt</wpr></sound><pr>ˈres-tə-ˌränt, -tränt <it>also</it> -t(ə-)rənt, -tərnt</pr><fl>noun</fl><et>French, from present participle of <it>restaurer</it> to restore, from Latin <it>restaurare</it></et><def><date>1819</date><dt>:a business establishment where meals or refreshments may be purchased</dt></def></entry>
+	<entry id="Chinese restaurant syndrome"><ew>Chinese restaurant syndrome</ew><grp>Chinese restaurant</grp><grp>Chinese syndrome</grp><grp>restaurant syndrome</grp><subj>MD</subj><hw>Chinese restaurant syndrome</hw><fl>noun</fl><def><date>1968</date><dt>:a group of symptoms (as numbness of the neck, arms, and back with headache, dizziness, and palpitations) that is held to affect susceptible persons eating food and especially Chinese food heavily seasoned with monosodium glutamate</dt></def></entry>
+</entry_list>

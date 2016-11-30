@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="factory"><ew>factory</ew><subj>EC-1#IE-2a</subj><hw>fac*to*ry</hw><sound><wav>factor10.wav</wav><wpr>!fak-t(u-)rE</wpr></sound><pr>ˈfak-t(ə-)rē</pr><fl>noun</fl><in><il>plural</il> <if>fac*to*ries</if></in><def><date>1582</date> <sn>1</sn> <dt>:a station where <fw>factors</fw> reside and trade <vi>a colonial <it>factory</it></vi></dt> <sn>2 a</sn> <dt>:a building or set of buildings with facilities for manufacturing</dt>  <sn>b</sn> <dt>:the seat of some kind of production <vi>the vice <it>factories</it> of the slums</vi></dt></def><uro><ure>fac*to*ry*like</ure><sound><wav>factor11.wav</wav><wpr>!fak-t(u-)rE-+lIk</wpr></sound> <pr>-ˌlīk</pr> <fl>adjective</fl></uro></entry>
+	<entry id="factory farm"><ew>factory farm</ew><subj>AG</subj><hw>factory farm</hw><fl>noun</fl><def><date>1868</date><dt>:a large industrialized farm</dt> <sd>especially</sd> <dt>:a farm on which large numbers of livestock are raised indoors in conditions intended to maximize production at minimal cost</dt></def><uro><ure>factory farming</ure> <fl>noun</fl></uro></entry>
+	<entry id="factory ship"><ew>factory ship</ew><subj>HF</subj><hw>factory ship</hw><fl>noun</fl><def><date>1851</date><dt>:a ship equipped to process a whale or fish catch at sea</dt></def></entry>
+</entry_list>

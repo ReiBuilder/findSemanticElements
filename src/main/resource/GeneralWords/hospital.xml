@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="hospital"><ew>hospital</ew><subj>MD-1#SY-1#MD-2</subj><hw>hos*pi*tal</hw><sound><wav>hospit04.wav</wav><wpr>!h@s-(+)pi-t/ul</wpr></sound><pr>ˈhäs-(ˌ)pi-tᵊl</pr><fl>noun</fl><lb>often attributive</lb><et>Middle English, from Anglo-French, from Medieval Latin <it>hospitale</it> hospice, guest house, from neuter of Latin <it>hospitalis</it> of a guest, from <it>hospit-, hospes</it></et><def><date>14th century</date> <sn>1</sn> <dt>:a charitable institution for the needy, aged, infirm, or young</dt> <sn>2</sn> <dt>:an institution where the sick or injured are given medical or surgical care <un>usually used in British English without an article after a preposition</un></dt> <sn>3</sn> <dt>:a repair shop for specified small objects <vi>a clock <it>hospital</it></vi></dt></def></entry>
+	<entry id="teaching hospital"><ew>teaching hospital</ew><subj>MD#ED</subj><hw>teaching hospital</hw><fl>noun</fl><def><date>1933</date><dt>:a hospital that is affiliated with a medical school and provides means for medical education</dt></def></entry>
+</entry_list>

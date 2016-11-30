@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="woolen[1]"><ew>woolen</ew><subj>TX-1#BZ-2</subj><hw hindex="1">wool*en</hw><sound><wav>woolle02.wav</wav><wpr>!w2-lun</wpr></sound><vr><vl>or</vl> <va>wool*len</va> <sound><wav>woolle02.wav</wav><wpr>!w2-lun</wpr></sound> <pr>ˈwu̇-lən</pr></vr><fl>adjective</fl><def><date>before 12th century</date> <sn>1</sn> <dt>:made of wool</dt> <sn>2</sn> <dt>:of or relating to the manufacture or sale of woolen products <vi><it>woolen</it> mills</vi></dt></def></entry>
+	<entry id="woolen[2]"><ew>woolen</ew><subj>TX-1#CL-2</subj><hw hindex="2">woolen</hw><vr><vl>or</vl> <va>woollen</va> </vr><fl>noun</fl><def><date>14th century</date> <sn>1</sn> <dt>:a fabric made of wool and especially of woolen yarns having a fuzzy or napped face (as for use in clothing or blankets) <dx>compare <dxt>worsted</dxt></dx></dt> <sn>2</sn> <dt>:garments of woolen fabric <un>usually used in plural</un></dt></def></entry>
+</entry_list>

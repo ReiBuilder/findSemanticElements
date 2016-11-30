@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="deafen"><ew>deafen</ew><subj>MD-1#PI-1</subj><hw>deaf*en</hw><sound><wav>deafen01.wav</wav><wpr>!de-fun</wpr></sound><pr>ˈde-fən</pr><fl>verb</fl><in><if>deaf*ened</if></in><in><if>deaf*en*ing</if><sound><wav>deafen02.wav</wav><wpr>!de-fu-niN</wpr></sound> <pr>-fə-niŋ, ˈdef-niŋ</pr></in><def><vt>transitive verb</vt><date>1597</date><dt>:to make deaf <vi>was <it>deafen</it><it>ed</it> by the explosion</vi></dt></def></entry>
+</entry_list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="frighten"><ew>frighten</ew><hw>fright*en</hw><sound><wav>fright02.wav</wav><wpr>!frI-t/un</wpr></sound><pr>ˈfrī-tᵊn</pr><fl>verb</fl><in><if>fright*ened</if></in><in><if>fright*en*ing</if><sound><wav>fright03.wav</wav><wpr>!frI-t/un-iN</wpr></sound> <pr>ˈfrī-tᵊn-iŋ, ˈfrīt-niŋ</pr></in><def><vt>transitive verb</vt><date>1630</date> <sn>1</sn> <dt>:to make afraid :<sx>terrify</sx></dt> <sn>2</sn> <dt>:to drive or force by <fw>frightening</fw> <vi><it>frighten</it><it>ed</it> the boy into confessing</vi></dt><vt>intransitive verb</vt> <dt>:to become <fw>frightened</fw></dt></def><uro><ure>fright*en*ing*ly</ure><sound><wav>fright04.wav</wav><wpr>!frIt-t/un-iN-lE</wpr></sound> <pr>-tᵊn-iŋ-lē, -niŋ-lē</pr> <fl>adverb</fl></uro></entry>
+</entry_list>

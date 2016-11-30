@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="collector"><ew>collector</ew><subj>EN-d</subj><hw>col*lec*tor</hw><sound><wav>collec16.wav</wav><wpr>ku-!lek-tur</wpr></sound><pr>kə-ˈlek-tər</pr><fl>noun</fl><def><date>14th century</date><dt> :one that <fw>collects</fw>: as</dt>  <sn>a</sn> <dt>:an official who collects funds or moneys</dt>  <sn>b</sn> <dt>:a person who makes a <fw>collection</fw> <vi>stamp <it>collector</it></vi></dt>  <sn>c</sn> <dt>:an object or device that collects <vi>the statuette was a dust <it>collector</it></vi></dt>  <sn>d</sn> <dt>:<sx>solar collector</sx> </dt></def><uro><ure>col*lec*tor*ship</ure><sound><wav>collec17.wav</wav><wpr>ku-!lek-tur-+ship</wpr></sound> <pr>-ˌship</pr> <fl>noun</fl></uro></entry>
+	<entry id="collector's item"><ew>collector's item</ew><hw>collector's item</hw><fl>noun</fl><def><date>1932</date><dt>:an item whose rarity or excellence makes it especially worth collecting</dt> <sd>broadly</sd> <dt>:<sx>collectible</sx></dt></def></entry>
+	<entry id="solar collector"><ew>solar collector</ew><subj>EN</subj><hw>solar collector</hw><fl>noun</fl><def><date>1955</date><dt>:any of various devices for the absorption of solar radiation for the heating of water or buildings or the production of electricity</dt></def></entry>
+</entry_list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="stiffen"><ew>stiffen</ew><hw>stiff*en</hw><sound><wav>stiffe01.wav</wav><wpr>!sti-fun</wpr></sound><pr>ˈsti-fən</pr><fl>verb</fl><in><if>stiff*ened</if></in><in><if>stiff*en*ing</if><sound><wav>stiffe02.wav</wav><wpr>!sti-fu-niN</wpr></sound> <pr>ˈsti-fə-niŋ, ˈstif-niŋ</pr></in><def><vt>transitive verb</vt><date>15th century</date> <dt>:to make <fw>stiff</fw> or <fw>stiffer</fw></dt><vt>intransitive verb</vt> <dt>:to become stiff or stiffer</dt></def><uro><ure>stiff*en*er</ure><sound><wav>stiffe03.wav</wav><wpr>!sti-fu-nur</wpr></sound> <pr>ˈsti-fə-nər, ˈstif-nər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="solve"><ew>solve</ew><subj>MA-vt1#EC-vt2#MA-vi</subj><hw>solve</hw><sound><wav>solve001.wav</wav><wpr>!s@lv</wpr></sound><pr>ˈsälv, ˈsȯlv</pr><fl>verb</fl><in><if>solved</if></in><in><if>solv*ing</if></in><et>Middle English, to loosen, from Latin <it>solvere</it> to loosen, solve, dissolve, from <it>sed-, se-</it> apart + <it>luere</it> to release <ma>secede, lose</ma></et><def><vt>transitive verb</vt><date>circa 1533</date> <sn>1</sn> <dt>:to find a solution, explanation, or answer for <vi><it>solve</it> a problem</vi> <vi><it>solved</it> the crime</vi></dt> <sn>2</sn> <dt>:to pay (as a debt) in full</dt><vt>intransitive verb</vt> <dt>:to solve something <vi>substitute and <it>solve</it> for <it>x</it></vi></dt></def><uro><ure>solv*er</ure> <fl>noun</fl></uro></entry>
+</entry_list>

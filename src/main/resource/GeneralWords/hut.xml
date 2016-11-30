@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="hut[1]"><ew>hut</ew><hw hindex="1">hut</hw><sound><wav>hut00001.wav</wav><wpr>!hut</wpr></sound><pr>ˈhət</pr><fl>noun</fl><et>French <it>hutte,</it> from Old French <it>hute,</it> from Old High German <it>hutta</it> hut; probably akin to Old English <it>hȳd</it> skin, hide</et><def><date>1655</date> <sn>1</sn> <dt>:an often small and temporary dwelling of simple construction :<sx>shack</sx></dt> <sn>2</sn> <dt>:a simple shelter from the elements</dt></def><uro><ure>hut</ure> <fl>verb</fl></uro></entry>
+	<entry id="hut[2]"><ew>hut</ew><subj>ML</subj><hw hindex="2">hut</hw><sound><wav>hut00001.wav</wav><wpr>!hut</wpr><wav>hut00002.wav</wav><wpr>!hup</wpr></sound><pr>ˈhət, ˈhəp</pr><fl>interjection</fl><et>probably alteration of <it>hep</it></et><def><date>1948</date><dt><un>used to mark a marching cadence</un></dt></def></entry>
+	<entry id="Nissen hut"><ew>Nissen hut</ew><subj>BD</subj><hw>Nis*sen hut</hw><sound><wav>nissen01.wav</wav><wpr>!ni-s/un-!hut</wpr></sound><pr>ˈni-sᵊn-</pr><fl>noun</fl><et>Peter North <it>Nissen</it> †1930 British mining engineer</et><def><date>1917</date><dt>:a prefabricated shelter with a semicircular arching roof of corrugated iron sheeting and a concrete floor</dt></def></entry>
+</entry_list>

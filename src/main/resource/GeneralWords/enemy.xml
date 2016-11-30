@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="enemy"><ew>enemy</ew><subj>ML-3</subj><hw>en*e*my</hw><sound><wav>enemy001.wav</wav><wpr>!e-nu-mE</wpr></sound><pr>ˈe-nə-mē</pr><fl>noun</fl><in><il>plural</il> <if>en*e*mies</if></in><et>Middle English <it>enemi,</it> from Anglo-French, from Latin <it>inimicus,</it> from <it>in-</it> in- + <it>amicus</it> friend <ma>amiable</ma></et><def><date>13th century</date> <sn>1</sn> <dt>:one that is antagonistic to another</dt> <sd>especially</sd> <dt>:one seeking to injure, overthrow, or confound an opponent</dt> <sn>2</sn> <dt>:something harmful or deadly <vi>alcohol was his greatest <it>enemy</it></vi></dt> <sn>3 a</sn> <dt>:a military adversary</dt>  <sn>b</sn> <dt>:a hostile unit or force</dt></def></entry>
+</entry_list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="fatten"><ew>fatten</ew><subj>AH-vt1a#AH-vi</subj><hw>fat*ten</hw><sound><wav>fatten01.wav</wav><wpr>!fa-t/un</wpr></sound><pr>ˈfa-tᵊn</pr><fl>verb</fl><in><if>fat*tened</if></in><in><if>fat*ten*ing</if><sound><wav>fatten02.wav</wav><wpr>!fa-t/un-iN</wpr></sound> <pr>ˈfat-niŋ, ˈfa-tə-niŋ</pr></in><def><vt>transitive verb</vt><date>circa 1552</date> <sn>1 a</sn> <dt>:to make fat, fleshy, or plump</dt> <sd>especially</sd> <dt>:to feed (as a stock animal) for slaughter</dt>  <sn>b</sn> <dt>:to make more substantial</dt> <sn>2</sn> <dt>:to make fertile</dt><vt>intransitive verb</vt> <dt>:to become fat</dt></def><uro><ure>fat*ten*er</ure><sound><wav>fatten03.wav</wav><wpr>!fa-t/un-ur</wpr></sound> <pr>ˈfat-nər, ˈfa-tə-nər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

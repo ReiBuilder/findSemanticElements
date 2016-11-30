@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="weekend[1]"><ew>weekend</ew><subj>CA</subj><hw hindex="1">week*end</hw><sound><wav>weeken01.wav</wav><wpr>!wEk-+end</wpr></sound><pr>ˈwēk-ˌend</pr><fl>noun</fl><def><date>1638</date><dt>:the end of the week</dt> <sd>specifically</sd> <dt>:the period between the close of one work or school week and the start of the next</dt></def></entry>
+	<entry id="weekend[2]"><ew>weekend</ew><hw hindex="2">weekend</hw><fl>verb</fl><def><vt>intransitive verb</vt><date>1901</date><dt>:to spend the weekend <vi><it>weekend</it><it>ing</it> in the country</vi></dt></def></entry>
+	<entry id="weekend[3]"><ew>weekend</ew><hw hindex="3">weekend</hw><fl>adjective</fl><def><date>1935</date><dt>:active in a specified role only on <fw>weekends</fw> or part-time <vi>a <it>weekend</it> father</vi> <vi><it>weekend</it> athletes</vi></dt></def></entry>
+	<entry id="weekend bag"><ew>weekend bag</ew><hw>weekend bag</hw><fl>noun</fl><def><date>1921</date><dt>:a suitcase of a size to carry clothing and personal articles for a weekend trip <ca>called also <cat>weekend case</cat></ca></dt></def></entry>
+	<entry id="weekend warrior"><ew>weekend warrior</ew><hw>weekend warrior</hw><fl>noun</fl><def><date>1981</date><dt>:a person who participates in a usually physically strenuous activity only on weekends or part-time</dt></def></entry>
+	<entry id="weekender"><ew>weekender</ew><hw>week*end*er</hw><sound><wav>weeken02.wav</wav><wpr>!wEk-!en-dur</wpr></sound><pr>ˈwēk-ˈen-dər</pr><fl>noun</fl><def><date>1880</date> <sn>1</sn> <dt>:one who vacations or visits for a <fw>weekend</fw></dt> <sn>2</sn> <dt>:<sx>weekend bag</sx></dt></def></entry>
+</entry_list>

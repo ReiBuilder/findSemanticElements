@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="supper"><ew>supper</ew><subj>FD</subj><hw>sup*per</hw><sound><wav>supper01.wav</wav><wpr>!su-pur</wpr></sound><pr>ˈsə-pər</pr><fl>noun</fl><et>Middle English <it>soper,</it> from Anglo-French <it>super,</it> from <it>super</it> to sup <ma>sup</ma></et><def><date>13th century</date> <sn>1 a</sn> <dt>:the evening meal especially when dinner is taken at midday</dt>  <sn>b</sn> <dt>:a social affair featuring a supper</dt> <sd>especially</sd> <dt>:an evening social especially for raising funds <vi>a church <it>supper</it></vi></dt> <sn>2</sn> <dt>:the food served as a supper <vi>eat your <it>supper</it></vi></dt> <sn>3</sn> <dt>:a light meal served late in the evening</dt></def></entry>
+	<entry id="supper club"><ew>supper club</ew><subj>BZ</subj><hw>supper club</hw><fl>noun</fl><def><date>1925</date><dt>:<sx>nightclub</sx></dt></def></entry>
+	<entry id="Last Supper"><ew>Last Supper</ew><subj>RC</subj><hw>Last Supper</hw><fl>noun</fl><def><date>14th century</date><dt>:the supper eaten by Jesus and his disciples on the night of his betrayal</dt></def></entry>
+	<entry id="Lord's Supper"><ew>Lord's Supper</ew><subj>RC</subj><hw>Lord's Supper</hw><fl>noun</fl><def><date>14th century</date><dt>:<sx>communion <sxn>2a</sxn></sx></dt></def></entry>
+</entry_list>

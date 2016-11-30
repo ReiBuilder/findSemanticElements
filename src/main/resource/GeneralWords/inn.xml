@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="inn[1]"><ew>inn</ew><subj>LW-2#ED-2</subj><hw hindex="1">inn</hw><sound><wav>inn00001.wav</wav><wpr>!in</wpr></sound><pr>ˈin</pr><fl>noun</fl><et>Middle English, from Old English; akin to Old Norse <it>inni</it> dwelling, inn, Old English <it>in,</it> adverb</et><def><date>12th century</date> <sn>1 a</sn> <dt>:an establishment for the lodging and entertaining of travelers</dt>  <sn>b</sn> <dt>:<sx>tavern</sx></dt> <sn>2</sn> <dt>:a residence formerly provided for British students in London and especially for students of law</dt></def></entry>
+	<entry id="inn[2]"><ew>inn</ew><hw hindex="2">inn</hw><fl>verb</fl><def><vt>intransitive verb</vt><date>14th century</date><dt>:to put up at an inn</dt></def></entry>
+	<entry id="Inn"><ew>Inn</ew><hw>Inn</hw><sound><wav>gginn001.wav</wav></sound><pr>ˈin</pr><fl>geographical name</fl><def><dt>river 320 <it>miles</it> (515 <it>kilometers</it>) flowing from <g>SE</g> Switzerland <g>NE</g> through Austria into the Danube in <g>SE</g> Germany <dx>see <dxt>engadine</dxt></dx></dt></def></entry>
+	<entry id="motor inn"><ew>motor inn</ew><hw>motor inn</hw><fl>noun</fl><def><date>1951</date><dt>:<sx>motel</sx></dt> <sd>especially</sd> <dt>:a large multistory motel <ca>called also <cat>motor hotel</cat></ca></dt></def></entry>
+</entry_list>

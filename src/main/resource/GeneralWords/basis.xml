@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="basis"><ew>basis</ew><subj>MA-5</subj><hw>ba*sis</hw><sound><wav>basis001.wav</wav><wpr>!bA-sus</wpr></sound><pr>ˈbā-səs</pr><fl>noun</fl><in><il>plural</il> <if>ba*ses</if><sound><wav>basis002.wav</wav><wpr>!bA-+sEz</wpr></sound> <pr>-ˌsēz</pr></in><et>Latin <ma>base</ma></et><def><date>14th century</date> <sn>1</sn> <dt>:the bottom of something considered as its foundation</dt> <sn>2</sn> <dt>:the principal component of something</dt> <sn>3 a</sn> <dt>:something on which something else is established or based</dt>  <sn>b</sn> <dt>:an underlying condition or state of affairs <vi>hired on a trial <it>basis</it></vi> <vi>on a first-name <it>basis</it></vi></dt> <sn>4</sn> <dt>:the <fw>basic</fw> principle</dt> <sn>5</sn> <dt>:a set of linearly independent vectors in a vector space such that any vector in the vector space can be expressed as a linear combination of them with appropriately chosen coefficients</dt></def></entry>
+	<entry id="bases"><ew>bases</ew><hw>bases</hw><cx><cl>plural of</cl> <ct>base</ct> <cl>or of</cl> <ct>basis</ct></cx></entry>
+	<entry id="basis point"><ew>basis point</ew><subj>EC</subj><hw>basis point</hw><fl>noun</fl><def><date>1967</date><dt>:one hundredth of one percent (as in the yield of an investment)</dt></def></entry>
+</entry_list>

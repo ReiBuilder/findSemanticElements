@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="enclose"><ew>enclose</ew><hw>en*close</hw><sound><wav>enclos01.wav</wav><wpr>in-!klOz</wpr></sound><pr>in-ˈklōz, en-</pr><vr><vl>also</vl> <va>in*close</va> <pr>in-</pr></vr><fl>verb</fl><et>Middle English, probably from <it>enclos</it> enclosed, from Anglo-French, past participle of <it>enclore</it> to enclose, from Vulgar Latin <it>*inclaudere,</it> alteration of Latin <it>includere</it> <ma>include</ma></et><def><vt>transitive verb</vt><date>14th century</date> <sn>1 a <snp>(1)</snp></sn> <dt>:to close in :<sx>surround</sx> <vi><it>enclose</it> a porch with glass</vi></dt>  <sn><snp>(2)</snp></sn> <dt>:to fence off (common land) for individual use</dt> <sn>b</sn> <dt>:to hold in :<sx>confine</sx></dt><sn>2</sn> <dt>:to include along with something else in a parcel or envelope <vi>a check is <it>enclosed</it> herewith</vi></dt></def></entry>
+	<entry id="inclose"><ew>inclose</ew><hw>inclose</hw><sound><wav>enclos01.wav</wav><wpr>in-!klOz</wpr></sound><ahw>inclosure</ahw><cx><cl>variant of</cl> <ct>enclose</ct> <ct>enclosure</ct></cx></entry>
+</entry_list>

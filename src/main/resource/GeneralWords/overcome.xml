@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="overcome"><ew>overcome</ew><hw>over*come</hw><sound><wav>overco02.wav</wav><wpr>+O-vur-!kum</wpr></sound><pr>ˌō-vər-ˈkəm</pr><fl>verb</fl><in><if>over*came</if><sound><wav>overco03.wav</wav><wpr>+O-vur-!kAm</wpr></sound> <pr>-ˈkām</pr></in><in><if>over*come</if></in><in><if>over*com*ing</if></in><et>Middle English, from Old English <it>ofercuman,</it> from <it>ofer</it> over + <it>cuman</it> to come</et><def><vt>transitive verb</vt><date>before 12th century</date> <sn>1</sn> <dt>:to get the better of :<sx>surmount</sx> <vi><it>overcome</it> difficulties</vi></dt> <sn>2</sn> <dt>:<sx>overwhelm</sx></dt><vt>intransitive verb</vt> <dt>:to gain the superiority :<sx>win</sx></dt><ss>conquer</ss></def><uro><ure>over*com*er</ure> <fl>noun</fl></uro></entry>
+</entry_list>

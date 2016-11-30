@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="civilize"><ew>civilize</ew><hw>civ*i*lize</hw><sound><wav>civili07.wav</wav><wpr>!si-vu-+lIz</wpr></sound><pr>ˈsi-və-ˌlīz</pr><fl>verb</fl><in><if>civ*i*lized</if></in><in><if>civ*i*liz*ing</if></in><def><vt>transitive verb</vt><date>1601</date> <sn>1</sn> <dt>:to cause to develop out of a primitive state</dt> <sd>especially</sd> <dt>:to bring to a technically advanced and rationally ordered stage of cultural development</dt> <sn>2 a</sn> <dt>:<sx>educate</sx> <sx>refine</sx></dt>  <sn>b</sn> <dt>:<sx>socialize <sxn>1</sxn></sx></dt><vt>intransitive verb</vt> <dt>:to acquire the customs and amenities of a <fw>civil</fw> community</dt></def><uro><ure>civ*i*liz*er</ure> <fl>noun</fl></uro></entry>
+	<entry id="civilisation"><ew>civilisation</ew><hw>civ*i*li*sa*tion</hw><ahw>civ*i*lise</ahw><cx><cl>chiefly British variant of</cl> <ct>civilization</ct> <ct>civilize</ct></cx></entry>
+</entry_list>

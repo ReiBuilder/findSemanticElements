@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="hasten"><ew>hasten</ew><hw>has*ten</hw><sound><wav>hasten01.wav</wav><wpr>!hA-s/un</wpr></sound><pr>ˈhā-sᵊn</pr><fl>verb</fl><in><if>has*tened</if></in><in><if>has*ten*ing</if><sound><wav>hasten02.wav</wav><wpr>!hA-s/un-iN</wpr></sound> <pr>ˈhās-niŋ, ˈhā-sᵊn-iŋ</pr></in><def><vt>intransitive verb</vt><date>1568</date> <dt>:to move or act quickly</dt><vt>transitive verb</vt> <sn>1</sn> <dt>:to urge on <vi><it>hasten</it><it>ed</it> her to the door <aq>A. J. Cronin</aq></vi></dt> <sn>2</sn> <dt>:<sx>accelerate</sx> <vi><it>hasten</it> the coming of a new order <aq>D. W. Brogan</aq></vi></dt></def><uro><ure>has*ten*er</ure><sound><wav>hasten03.wav</wav><wpr>!hA-s/un-ur</wpr></sound> <pr>ˈhās-nər, ˈhā-sᵊn-ər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

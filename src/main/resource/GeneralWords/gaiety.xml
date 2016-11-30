@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="gaiety"><ew>gaiety</ew><hw>gai*ety</hw><sound><wav>gaiety01.wav</wav><wpr>!gA-u-tE</wpr></sound><vr><vl>also</vl> <va>gay*ety</va> <pr>ˈgā-ə-tē</pr></vr><fl>noun</fl><in><il>plural</il> <if>gai*eties</if></in><et>French <it>gaieté</it></et><def><date>1634</date> <sn>1</sn> <dt>:<sx>merrymaking</sx></dt> <sd>also</sd> <dt>:festive activity <un>often used in plural</un></dt> <sn>2</sn> <dt>:high spirits :<sx>merriment</sx></dt> <sn>3</sn> <dt>:<sx>elegance</sx> <sx>finery</sx></dt></def></entry>
+	<entry id="gayety"><ew>gayety</ew><hw>gayety</hw><ahw>gayly</ahw><cx><cl>variant of</cl> <ct>gaiety</ct> <ct>gaily</ct></cx></entry>
+</entry_list>

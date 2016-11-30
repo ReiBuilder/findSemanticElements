@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="membership"><ew>membership</ew><subj>MA-3</subj><hw>mem*ber*ship</hw><sound><wav>member03.wav</wav><wpr>!mem-bur-+ship</wpr></sound><pr>ˈmem-bər-ˌship</pr><fl>noun</fl><def><date>1643</date> <sn>1</sn> <dt>:the state or status of being a <fw>member</fw></dt> <sn>2</sn> <dt>:the body of <fw>members</fw> <vi>an organization with a large <it>membership</it></vi></dt> <sn>3</sn> <dt>:the relation between an element of a set or class and the set or class <dx>compare <dxt>inclusion <dxn>3a</dxn></dxt></dx></dt></def></entry>
+	<entry id="charter member"><ew>charter member</ew><hw>charter member</hw><fl>noun</fl><def><date>circa 1909</date><dt>:an original member of a group (as a society or corporation)</dt></def><uro><ure>charter membership</ure> <fl>noun</fl></uro></entry>
+</entry_list>

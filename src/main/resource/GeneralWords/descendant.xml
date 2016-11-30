@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="descendant[1]"><ew>descendant</ew><subj>GN-2#BI</subj><hw hindex="1">de*scen*dant</hw><sound><wav>descen03.wav</wav><wpr>di-!sen-dunt</wpr></sound><vr><vl>also</vl> <va>de*scen*dent</va> <sound><wav>descen03.wav</wav><wpr>di-!sen-dunt</wpr></sound> <pr>di-ˈsen-dənt</pr></vr><fl>adjective</fl><et>Middle English <it>dessendaunte,</it> from Anglo-French <it>descendant,</it> from Latin <it>descendent-, descendens,</it> present participle of <it>descendere</it></et><def><date>circa 1555</date> <sn>1</sn> <dt>:moving or directed downward</dt> <sn>2</sn> <dt>:proceeding from an ancestor or source</dt></def></entry>
+	<entry id="descendant[2]"><ew>descendant</ew><subj>GN-1#BI-1</subj><hw hindex="2">descendant</hw><vr><vl>also</vl> <va>descendent</va> </vr><fl>noun</fl><et>French &amp; Latin; French <it>descendant,</it> from Late Latin <it>descendent-, descendens,</it> from Latin</et><def><date>1600</date> <sn>1</sn> <dt>:one <fw>descended</fw> from another or from a common stock</dt> <sn>2</sn> <dt>:one deriving directly from a precursor or prototype</dt></def></entry>
+</entry_list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="bedroom[1]"><ew>bedroom</ew><hw hindex="1">bed*room</hw><sound><wav>bedroo01.wav</wav><wpr>!bed-+rUm</wpr></sound><pr>-ˌrüm, -ˌru̇m</pr><fl>noun</fl><def><date>1616</date><dt>:a room furnished with a bed and intended primarily for sleeping</dt></def><uro><ure>bed*roomed</ure><sound><wav>bedroo02.wav</wav><wpr>!bed-+rUmd</wpr></sound> <pr>-ˌrümd, -ˌru̇md</pr> <fl>adjective</fl></uro></entry>
+	<entry id="bedroom[2]"><ew>bedroom</ew><hw hindex="2">bed*room</hw><fl>adjective</fl><def><date>1915</date> <sn>1</sn> <dt>:dealing with, suggestive of, or inviting sexual relations <vi>a <it>bedroom</it> farce</vi> <vi><it>bedroom</it> eyes</vi></dt> <sn>2</sn> <dt>:inhabited or used by commuters <vi>a <it>bedroom</it> community</vi></dt></def></entry>
+	<entry id="master bedroom"><ew>master bedroom</ew><hw>master bedroom</hw><fl>noun</fl><def><date>1925</date><dt>:a large or principal bedroom</dt></def></entry>
+</entry_list>

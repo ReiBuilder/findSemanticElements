@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="sadden"><ew>sadden</ew><hw>sad*den</hw><sound><wav>sadden01.wav</wav><wpr>!sa-d/un</wpr></sound><pr>ˈsa-dᵊn</pr><fl>verb</fl><in><if>sad*dened</if></in><in><if>sad*den*ing</if><sound><wav>sadden02.wav</wav><wpr>!sa-d/un-iN</wpr></sound> <pr>ˈsad-niŋ, ˈsa-dᵊn-iŋ</pr></in><def><vt>transitive verb</vt><date>1628</date> <dt>:to make sad</dt><vt>intransitive verb</vt> <dt>:to become sad</dt></def></entry>
+</entry_list>

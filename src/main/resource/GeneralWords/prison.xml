@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="prison[1]"><ew>prison</ew><subj>SY-2</subj><hw hindex="1">pris*on</hw><sound><wav>prison01.wav</wav><wpr>!pri-z/un</wpr></sound><pr>ˈpri-zᵊn</pr><fl>noun</fl><et>Middle English, from Anglo-French, from Latin <it>prehension-, prehensio</it> act of seizing, from <it>prehendere</it> to seize <ma>get</ma></et><def><date>12th century</date> <sn>1</sn> <dt>:a state of confinement or captivity</dt> <sn>2</sn> <dt>:a place of confinement especially for lawbreakers</dt> <sd>specifically</sd> <dt>:an institution (as one under state jurisdiction) for confinement of persons convicted of serious crimes <dx>compare <dxt>jail</dxt></dx></dt></def></entry>
+	<entry id="prison[2]"><ew>prison</ew><subj>SY</subj><hw hindex="2">prison</hw><fl>verb</fl><def><vt>transitive verb</vt><date>14th century</date><dt>:<sx>imprison</sx> <sx>confine</sx></dt></def></entry>
+	<entry id="prison camp"><ew>prison camp</ew><subj>SY-1#ML-2</subj><hw>prison camp</hw><fl>noun</fl><def><date>1864</date> <sn>1</sn> <dt>:a camp for the confinement of reasonably trustworthy prisoners usually employed on government projects</dt> <sn>2</sn> <dt>:a camp for prisoners of war or political prisoners</dt></def></entry>
+</entry_list>

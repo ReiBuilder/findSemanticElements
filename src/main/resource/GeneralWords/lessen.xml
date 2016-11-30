@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="lessen"><ew>lessen</ew><hw>less*en</hw><sound><wav>lessen01.wav</wav><wpr>!le-s/un</wpr></sound><pr>ˈle-sᵊn</pr><fl>verb</fl><in><if>less*ened</if></in><in><if>less*en*ing</if><sound><wav>lessen02.wav</wav><wpr>!le-s/un-iN</wpr></sound> <pr>ˈles-niŋ, ˈle-sᵊn-iŋ</pr></in><def><vt>intransitive verb</vt><date>13th century</date> <dt>:to shrink in size, number, or degree :<sx>decrease</sx></dt><vt>transitive verb</vt> <sn>1</sn> <dt>:to reduce in size, extent, or degree</dt> <sn>2 a</sn> <ssl>archaic</ssl> <dt>:to represent as of little value</dt>  <sn>b</sn> <dt>:to lower in status or dignity :<sx>degrade</sx></dt><ss>decrease</ss></def></entry>
+</entry_list>

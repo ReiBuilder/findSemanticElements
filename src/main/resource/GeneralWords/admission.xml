@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="admission"><ew>admission</ew><subj>LG-2a</subj><hw>ad*mis*sion</hw><sound><wav>admiss03.wav</wav><wpr>ud-!mi-shun</wpr></sound><pr>əd-ˈmi-shən, ad-</pr><fl>noun</fl><def><date>15th century</date> <sn>1 a</sn> <dt>:the act or process of <fw>admitting</fw></dt>  <sn>b</sn> <dt>:the state or privilege of being <fw>admitted</fw></dt>  <sn>c</sn> <dt>:a fee paid at or for admission</dt> <sn>2 a</sn> <dt>:the granting of an argument or position not fully proved</dt>  <sn>b</sn> <dt>:acknowledgment that a fact or statement is true</dt></def><uro><ure>ad*mis*sive</ure><sound><wav>admiss04.wav</wav><wpr>ud-!mi-siv</wpr></sound> <pr>-ˈmi-siv</pr> <fl>adjective</fl></uro></entry>
+	<entry id="general admission"><ew>general admission</ew><subj>TH#ET</subj><hw>general admission</hw><fl>noun</fl><def><date>circa 1949</date><dt>:a fee paid for admission to a usually unreserved seating area (as in an auditorium or stadium)</dt></def></entry>
+	<entry id="open admission"><ew>open admission</ew><subj>ED</subj><hw>open admission</hw><fl>noun</fl><def><date>1969</date><dt>:<sx>open enrollment <sxn>2</sxn></sx></dt></def></entry>
+</entry_list>

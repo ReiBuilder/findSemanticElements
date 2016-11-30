@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="whoever"><ew>whoever</ew><hw>who*ev*er</hw><sound><wav>whoeve01.wav</wav><wpr>hU-!e-vur</wpr></sound><pr>hü-ˈe-vər</pr><fl>pronoun</fl><def><date>13th century</date><dt>:whatever person :no matter who <un>used in any grammatical relation except that of a possessive <vi>sells to <it>whoever</it> has the money to buy</vi></un></dt></def></entry>
+	<entry id="whomever"><ew>whomever</ew><hw>whom*ev*er</hw><sound><wav>whomev01.wav</wav><wpr>hU-!me-vur</wpr></sound><pr>hü-ˈme-vər</pr><fl>pronoun</fl><cx><cl>objective case of</cl> <ct>whoever</ct></cx></entry>
+</entry_list>

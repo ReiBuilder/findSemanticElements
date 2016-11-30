@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="discomfort[1]"><ew>discomfort</ew><hw hindex="1">dis*com*fort</hw><sound><wav>discom05.wav</wav><wpr>dis-!kum(p)-furt</wpr></sound><pr>dis-ˈkəm(p)-fərt</pr><fl>verb</fl><et>Middle English, from Anglo-French <it>descomforter,</it> from <it>des-</it> dis- + <it>comforter</it> to comfort</et><def><vt>transitive verb</vt><date>14th century</date> <sn>1</sn> <ssl>archaic</ssl> <dt>:<sx>dismay <sxn>1</sxn></sx></dt> <sn>2</sn> <dt>:to make uncomfortable or uneasy</dt></def><uro><ure>dis*com*fort*able</ure><sound><wav>discom06.wav</wav><wpr>dis-!kum(p)-fur-tu-bul</wpr></sound> <pr>-ˈkəm(p)-fər-tə-bəl, -ˈkəm(p)f-tər-bəl</pr> <fl>adjective</fl></uro></entry>
+	<entry id="discomfort[2]"><ew>discomfort</ew><hw hindex="2">discomfort</hw><fl>noun</fl><def><date>14th century</date> <sn>1</sn> <ssl>archaic</ssl> <dt>:<sx>distress</sx> <sx>grief</sx></dt> <sn>2</sn> <dt>:mental or physical uneasiness :<sx>annoyance</sx></dt></def></entry>
+</entry_list>

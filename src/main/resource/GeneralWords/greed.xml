@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="greed"><ew>greed</ew><hw>greed</hw><sound><wav>greed001.wav</wav><wpr>!grEd</wpr></sound><pr>ˈgrēd</pr><fl>noun</fl><et>back-formation from <it>greedy</it></et><def><date>1609</date><dt>:a selfish and excessive desire for more of something (as money) than is needed</dt></def></entry>
+	<entry id="gree[2]"><ew>gree</ew><subj>DI</subj><hw hindex="2">gree</hw><fl>verb</fl><in><if>greed</if></in><in><if>gree*ing</if></in><et>Middle English <it>green,</it> short for <it>agreen</it></et><def><date>14th century</date><sl>dialect</sl><dt>:<sx>agree</sx></dt></def></entry>
+</entry_list>

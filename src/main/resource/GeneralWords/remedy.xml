@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="remedy[1]"><ew>remedy</ew><subj>LW-3#MD-1#RX-1</subj><hw hindex="1">rem*e*dy</hw><sound><wav>remedy01.wav</wav><wpr>!re-mu-dE</wpr></sound><pr>ˈre-mə-dē</pr><fl>noun</fl><in><il>plural</il> <if>rem*e*dies</if></in><et>Middle English <it>remedie,</it> from Anglo-French, from Latin <it>remedium,</it> from <it>re-</it> + <it>mederi</it> to heal <ma>medical</ma></et><def><date>13th century</date> <sn>1</sn> <dt>:a medicine, application, or treatment that relieves or cures a disease</dt> <sn>2</sn> <dt>:something that corrects or counteracts</dt> <sn>3</sn> <dt>:the legal means to recover a right or to prevent or obtain redress for a wrong</dt></def><uro><ure>rem*e*di*less</ure> <fl>adjective</fl></uro></entry>
+	<entry id="remedy[2]"><ew>remedy</ew><subj>MD#RX</subj><hw hindex="2">remedy</hw><fl>verb</fl><in><if>remedied</if></in><in><if>remedy*ing</if></in><def><vt>transitive verb</vt><date>15th century</date><dt>:to provide or serve as a remedy for :<sx>relieve</sx> <vi><it>remedy</it> a social evil</vi></dt><ss>correct</ss></def></entry>
+</entry_list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="gallon"><ew>gallon</ew><subj>WT</subj><hw>gal*lon</hw><sound><wav>gallon01.wav</wav><wpr>!ga-lun</wpr></sound><pr>ˈga-lən</pr><fl>noun</fl><et>Middle English <it>galon,</it> a liquid measure, from Anglo-French <it>galun, jalun,</it> ultimately from Medieval Latin <it>galeta</it> pail, a liquid measure</et><def><date>13th century</date><dt>:a unit of liquid capacity equal to 231 cubic inches or four quarts <dx>see <dxt>weight <dxn>table</dxn></dxt></dx></dt></def></entry>
+	<entry id="ten-gallon hat"><ew>ten-gallon hat</ew><subj>CL</subj><hw>ten–gallon hat</hw><fl>noun</fl><def><date>1920</date><dt>:<sx>cowboy hat</sx></dt></def></entry>
+</entry_list>

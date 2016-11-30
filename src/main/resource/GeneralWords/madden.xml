@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="madden"><ew>madden</ew><hw>mad*den</hw><sound><wav>madden01.wav</wav><wpr>!ma-d/un</wpr></sound><pr>ˈma-dᵊn</pr><fl>verb</fl><in><if>mad*dened</if></in><in><if>mad*den*ing</if><sound><wav>madden02.wav</wav><wpr>!ma-d/un-iN</wpr></sound> <pr>ˈmad-niŋ, ˈma-dᵊn-iŋ</pr></in><def><vt>intransitive verb</vt><date>1735</date> <dt>:to become or act as if mad</dt><vt>transitive verb</vt> <sn>1</sn> <dt>:to drive mad :<sx>craze</sx></dt> <sn>2</sn> <dt>:to make intensely angry :<sx>enrage</sx></dt></def></entry>
+</entry_list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="literary"><ew>literary</ew><subj>LT#ED-1a</subj><hw>lit*er*ary</hw><sound><wav>litera11.wav</wav><wpr>!li-tu-+rer-E</wpr></sound><pr>ˈli-tə-ˌrer-ē</pr><fl>adjective</fl><def><date>1605</date> <sn>1 a</sn> <dt>:of, relating to, or having the characteristics of humane learning or <fw>literature</fw></dt>  <sn>b</sn> <dt>:<sx>bookish <sxn>2</sxn></sx></dt>  <sn>c</sn> <dt>:of or relating to books</dt> <sn>2 a</sn> <dt>:<sx>well-read</sx></dt>  <sn>b</sn> <dt>:of or relating to authors or scholars or to their professions</dt></def><uro><ure>lit*er*ar*i*ly</ure><sound><wav>litera12.wav</wav><wpr>+li-tu-!rer-u-lE</wpr></sound> <pr>ˌli-tə-ˈrer-ə-lē</pr> <fl>adverb</fl></uro><uro><ure>lit*er*ar*i*ness</ure><sound><wav>litera13.wav</wav><wpr>!li-tu-+rer-E-nus</wpr></sound> <pr>ˈli-tə-ˌrer-ē-nəs</pr> <fl>noun</fl></uro></entry>
+	<entry id="literary executor"><ew>literary executor</ew><subj>LT</subj><hw>literary executor</hw><fl>noun</fl><def><date>1849</date><dt>:a person entrusted with the management of the papers and unpublished works of a deceased author</dt></def></entry>
+</entry_list>

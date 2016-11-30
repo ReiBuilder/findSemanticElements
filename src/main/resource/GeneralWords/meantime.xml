@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="meantime[1]"><ew>meantime</ew><hw hindex="1">mean*time</hw><sound><wav>meanti01.wav</wav><wpr>!mEn-+tIm</wpr></sound><pr>ˈmēn-ˌtīm</pr><fl>noun</fl><def><date>14th century</date><dt>:the intervening time</dt></def></entry>
+	<entry id="meantime[2]"><ew>meantime</ew><hw hindex="2">meantime</hw><fl>adverb</fl><def><date>1588</date><dt>:<sx>meanwhile</sx></dt></def></entry>
+	<entry id="mean time"><ew>mean time</ew><subj>CA#AS</subj><hw>mean time</hw><fl>noun</fl><def><date>1751</date><dt>:time that is based on the motion of the mean sun <ca>called also <cat>mean solar time</cat></ca></dt></def></entry>
+	<entry id="Greenwich mean time"><ew>Greenwich mean time</ew><grp>Green*wich mean</grp><grp>Green*wich time</grp><grp>mean time</grp><subj>CA#WT</subj><hw>Green*wich mean time</hw><sound><wav>greenw02.wav</wav><wpr>!gri-nij-!mEn-!tIm</wpr></sound><pr>ˈgri-nij-, ˈgre-, -nich-</pr><fl>noun</fl><lb>often capitalized M&amp;T</lb><et><it>Greenwich,</it> England</et><def><date>1863</date><dt>:the mean solar time of the meridian of Greenwich used historically as the prime basis of standard time throughout the world <ca>called also <cat>Greenwich time</cat></ca> <dx>compare <dxt>coordinated universal time</dxt></dx></dt></def></entry>
+</entry_list>

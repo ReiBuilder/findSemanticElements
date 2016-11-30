@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="bake[1]"><ew>bake</ew><subj>FD-vt1#FD-vi1</subj><hw hindex="1">bake</hw><sound><wav>bake0001.wav</wav><wpr>!bAk</wpr></sound><pr>ˈbāk</pr><fl>verb</fl><in><if>baked</if></in><in><if>bak*ing</if></in><et>Middle English, from Old English <it>bacan;</it> akin to Old High German <it>bahhan</it> to bake, Greek <it>phōgein</it> to roast</et><def><vt>transitive verb</vt><date>before 12th century</date> <sn>1</sn> <dt>:to cook (as food) by dry heat especially in an oven</dt> <sn>2</sn> <dt>:to dry or harden by subjecting to heat</dt><vt>intransitive verb</vt> <sn>1</sn> <dt>:to prepare food by baking it</dt> <sn>2</sn> <dt>:to become <fw>baked</fw></dt> <sn>3</sn> <dt>:to be or become extremely hot <vi>sidewalks <it>baking</it> in the sun</vi></dt></def><uro><ure>bak*er</ure> <fl>noun</fl></uro></entry>
+	<entry id="bake[2]"><ew>bake</ew><subj>FD</subj><hw hindex="2">bake</hw><fl>noun</fl><def><date>1565</date> <sn>1</sn> <dt>:the act or process of baking</dt> <sn>2</sn> <dt>:a social gathering at which a <fw>baked</fw> food is served</dt></def></entry>
+	<entry id="bake sale"><ew>bake sale</ew><subj>FD</subj><hw>bake sale</hw><fl>noun</fl><def><date>1903</date><dt>:a fund-raising event at which usually homemade foods (as cakes and cookies) are sold</dt></def></entry>
+</entry_list>

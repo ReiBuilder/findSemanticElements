@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="lonely"><ew>lonely</ew><hw>lone*ly</hw><sound><wav>lonely01.wav</wav><wpr>!lOn-lE</wpr></sound><pr>ˈlōn-lē</pr><fl>adjective</fl><in><if>lone*li*er</if></in><in><if>lone*li*est</if></in><def><date>circa 1598</date> <sn>1 a</sn> <dt>:being without company :<sx>lone</sx></dt>  <sn>b</sn> <dt>:cut off from others :<sx>solitary</sx></dt> <sn>2</sn> <dt>:not frequented by human beings :<sx>desolate</sx></dt> <sn>3</sn> <dt>:sad from being alone :<sx>lonesome</sx></dt> <sn>4</sn> <dt>:producing a feeling of bleakness or desolation</dt><ss>alone</ss></def><uro><ure>lone*li*ness</ure><sound><wav>loneli01.wav</wav><wpr>!lOn-lE-nus</wpr></sound> <pr>ˈlōn-lē-nəs</pr> <fl>noun</fl></uro></entry>
+	<entry id="lonely hearts"><ew>lonely hearts</ew><hw>lonely hearts</hw><fl>adjective</fl><def><date>1949</date><dt>:of or relating to lonely persons who are seeking companions or spouses</dt></def></entry>
+</entry_list>

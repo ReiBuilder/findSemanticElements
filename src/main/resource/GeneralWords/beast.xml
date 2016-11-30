@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="beast"><ew>beast</ew><subj>ZO-1</subj><hw>beast</hw><sound><wav>beast001.wav</wav><wpr>!bEst</wpr></sound><pr>ˈbēst</pr><fl>noun</fl><et>Middle English <it>beste,</it> from Anglo-French, from Latin <it>bestia</it></et><def><date>13th century</date> <sn>1 a</sn> <dt>:a four-footed mammal as distinguished from a human being, a lower vertebrate, and an invertebrate</dt>  <sn>b</sn> <dt>:a lower animal as distinguished from a human being</dt>  <sn>c</sn> <dt>:an animal as distinguished from a plant</dt>  <sn>d</sn> <dt>:an animal under human control</dt> <sn>2</sn> <dt>:a contemptible person</dt> <sn>3</sn> <dt>:something formidably difficult to control or deal with</dt></def></entry>
+	<entry id="beast epic"><ew>beast epic</ew><subj>LT</subj><hw>beast epic</hw><fl>noun</fl><def><date>1873</date><dt>:a poem with epic conventions in which animals speak and act like human beings</dt></def></entry>
+	<entry id="beast fable"><ew>beast fable</ew><subj>LT</subj><hw>beast fable</hw><fl>noun</fl><def><date>1865</date><dt>:a usually didactic prose or verse fable in which animals speak and act like human beings</dt></def></entry>
+	<entry id="beast of burden"><ew>beast of burden</ew><grp>beast of</grp><grp>beast burden</grp><grp>of burden</grp><hw>beast of burden</hw><def><date>1740</date><dt>:an animal employed to carry heavy loads or to perform other heavy work (as pulling a plow)</dt></def></entry>
+	<entry id="black beast"><ew>black beast</ew><hw>black beast</hw><fl>noun</fl><def><date>1862</date><dt>:<sx>bête noire</sx></dt></def></entry>
+</entry_list>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="rejoice"><ew>rejoice</ew><hw>re*joice</hw><sound><wav>rejoic01.wav</wav><wpr>ri-!jois</wpr></sound><pr>ri-ˈjȯis</pr><fl>verb</fl><in><if>re*joiced</if></in><in><if>re*joic*ing</if></in><et>Middle English, from Anglo-French <it>rejois-,</it> stem of <it>rejoier, rejoir,</it> from <it>re-</it> + <it>joir</it> to welcome, enjoy, from Latin <it>gaudēre</it> to be glad <ma>joy</ma></et><def><vt>transitive verb</vt><date>14th century</date> <dt>:to give joy to :<sx>gladden</sx></dt><vt>intransitive verb</vt> <dt>:to feel joy or great delight</dt></def><uro><ure>re*joic*er</ure> <fl>noun</fl></uro><uro><ure>re*joic*ing*ly</ure><sound><wav>rejoic02.wav</wav><wpr>ri-!joi-siN-lE</wpr></sound> <pr>-ˈjȯi-siŋ-lē</pr> <fl>adverb</fl></uro><dro><drp>rejoice in</drp> <def><dt>:<sx>have</sx> <sx>possess</sx></dt></def></dro></entry>
+</entry_list>

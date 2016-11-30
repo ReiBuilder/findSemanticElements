@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="poem"><ew>poem</ew><subj>LT-1</subj><hw>po*em</hw><sound><wav>poem0001.wav</wav><wpr>!pO-um</wpr><wav>poem0002.wav</wav><wpr>!pOm</wpr></sound><pr>ˈpō-əm, -im, ˈpōm <it>also</it> ˈpȯ(-)im, ˈpō-ˌem</pr><fl>noun</fl><et>Middle French <it>poeme,</it> from Latin <it>poema,</it> from Greek <it>poiēma,</it> from <it>poiein</it></et><def><date>15th century</date> <sn>1</sn> <dt>:a composition in verse</dt> <sn>2</sn> <dt>:something suggesting a poem (as in expressiveness, lyricism, or formal grace) <vi>the house we stayed in … was itself a <it>poem</it> <aq>H. J. Laski</aq></vi></dt></def></entry>
+	<entry id="found poem"><ew>found poem</ew><subj>LT</subj><hw>found poem</hw><fl>noun</fl><def><date>1966</date><dt>:a poem consisting of words found in a nonpoetic context (as a product label) and usually broken into lines that convey a verse rhythm</dt></def></entry>
+	<entry id="heroic poem"><ew>heroic poem</ew><subj>LT</subj><hw>heroic poem</hw><fl>noun</fl><def><date>1693</date><dt>:an epic or a poem in epic style</dt></def></entry>
+	<entry id="prose poem"><ew>prose poem</ew><subj>LT</subj><hw>prose poem</hw><fl>noun</fl><def><date>1842</date><dt>:a composition in prose that has some of the qualities of a poem</dt></def><uro><ure>prose poet</ure> <fl>noun</fl></uro></entry>
+	<entry id="symphonic poem"><ew>symphonic poem</ew><subj>MU</subj><hw>symphonic poem</hw><fl>noun</fl><def><date>1873</date><dt>:an extended programmatic composition for symphony orchestra usually freer in form than a symphony</dt></def></entry>
+	<entry id="tone poem"><ew>tone poem</ew><subj>MU</subj><hw>tone poem</hw><fl>noun</fl><def><date>1902</date><dt>:<sx>symphonic poem</sx></dt></def><uro><ure>tone poet</ure> <fl>noun</fl></uro></entry>
+</entry_list>

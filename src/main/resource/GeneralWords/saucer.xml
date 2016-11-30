@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="saucer"><ew>saucer</ew><subj>HH-1</subj><hw>sau*cer</hw><sound><wav>saucer01.wav</wav><wpr>!so-sur</wpr></sound><pr>ˈsȯ-sər</pr><fl>noun</fl><et>Middle English, plate containing a condiment, from Anglo-French, from <it>sauce</it></et><def><date>circa 1702</date> <sn>1</sn> <dt>:a small shallow dish in which a cup is set at table</dt> <sn>2</sn> <dt>:something resembling a saucer especially in shape</dt> <sd>especially</sd> <dt>:<sx>flying saucer</sx></dt></def><uro><ure>sau*cer*like</ure><sound><wav>saucer02.wav</wav><wpr>!so-sur-+lIk</wpr></sound> <pr>-ˌlīk</pr> <fl>adjective</fl></uro></entry>
+	<entry id="flying saucer"><ew>flying saucer</ew><hw>flying saucer</hw><fl>noun</fl><def><date>1947</date><dt>:any of various unidentified flying objects usually described as being saucer-shaped or disk-shaped</dt></def></entry>
+</entry_list>

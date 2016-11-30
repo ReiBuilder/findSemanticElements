@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="pint"><ew>pint</ew><subj>WT-1#HH-2</subj><hw>pint</hw><sound><wav>pint0001.wav</wav><wpr>!pInt</wpr></sound><pr>ˈpīnt</pr><fl>noun</fl><et>Middle English <it>pinte,</it> from Middle French, probably from Vulgar Latin <it>*pincta,</it> feminine of <it>pinctus,</it> past participle of Latin <it>pingere</it> to paint; from the use of a painted mark on a container to show its capacity <ma>paint</ma></et><def><date>14th century</date> <sn>1</sn> <dt><dx>see <dxt>weight <dxn>table</dxn></dxt></dx></dt> <sn>2</sn> <dt>:a pint pot or vessel</dt></def></entry>
+	<entry id="pint-size"><ew>pint-size</ew><hw>pint–size</hw><sound><wav>pintsi01.wav</wav><wpr>!pInt-+sIz</wpr></sound><pr>ˈpīnt-ˌsīz</pr><vr><vl>or</vl> <va>pint–sized</va> <sound><wav>pintsi02.wav</wav><wpr>!pInt-+sIzd</wpr></sound> <pr>-ˌsīzd</pr></vr><fl>adjective</fl><def><date>1936</date><dt>:<sx>small</sx></dt></def></entry>
+	<entry id="half-pint[1]"><ew>half-pint</ew><subj>WT-1</subj><hw hindex="1">half–pint</hw><sound><wav>halfpi01.wav</wav><wpr>!haf-+pInt</wpr></sound><pr>ˈhaf-ˌpīnt, ˈhäf-</pr><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:half a pint</dt> <sn>2</sn> <dt>:a short, small, or inconsequential person</dt></def></entry>
+	<entry id="half-pint[2]"><ew>half-pint</ew><hw hindex="2">half–pint</hw><fl>adjective</fl><def><date>1931</date><dt>:of less than average size :<sx>diminutive</sx></dt></def></entry>
+</entry_list>

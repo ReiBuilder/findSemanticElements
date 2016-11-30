@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="pastry"><ew>pastry</ew><subj>FD</subj><hw>pas*try</hw><sound><wav>pastry01.wav</wav><wpr>!pAs-trE</wpr></sound><pr>ˈpās-trē</pr><fl>noun</fl><in><il>plural</il> <if>pastries</if></in><et><it>paste</it></et><def><date>circa 1538</date> <sn>1 a</sn> <dt>:<sx>paste <sxn>1a</sxn></sx></dt>  <sn>b</sn> <dt>:sweet baked goods made of dough having a high fat content</dt> <sn>2</sn> <dt>:a piece of pastry</dt></def></entry>
+	<entry id="Danish pastry"><ew>Danish pastry</ew><subj>FD</subj><hw>Danish pastry</hw><fl>noun</fl><def><date>1921</date><dt>:a pastry made of a rich raised dough</dt></def></entry>
+	<entry id="French pastry"><ew>French pastry</ew><subj>FD</subj><hw>French pastry</hw><fl>noun</fl><def><date>1847</date><dt>:a rich pastry filled especially with custard or fruit</dt></def></entry>
+	<entry id="puff pastry"><ew>puff pastry</ew><subj>FD</subj><hw>puff pastry</hw><fl>noun</fl><def><date>1788</date><dt>:a pastry dough containing many alternating layers of butter and dough or the light flaky pastry made from it <ca>called also <cat>puff paste</cat></ca></dt></def></entry>
+</entry_list>

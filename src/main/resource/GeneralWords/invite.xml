@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="invite[1]"><ew>invite</ew><hw hindex="1">in*vite</hw><sound><wav>invite01.wav</wav><wpr>in-!vIt</wpr></sound><pr>in-ˈvīt</pr><fl>verb</fl><in><if>in*vit*ed</if></in><in><if>in*vit*ing</if></in><et>Middle French or Latin; Middle French <it>inviter,</it> from Latin <it>invitare</it></et><def><vt>transitive verb</vt><date>1533</date> <sn>1 a</sn> <dt>:to offer an incentive or inducement to :<sx>entice</sx></dt>  <sn>b</sn> <dt>:to increase the likelihood of <vi><it>invite</it> trouble</vi></dt> <sn>2 a</sn> <dt>:to request the presence or participation of <vi><it>invited</it> us to dinner</vi></dt>  <sn>b</sn> <dt>:to request formally</dt>  <sn>c</sn> <dt>:to urge politely :<sx>welcome</sx> <vi><it>invite</it> comments</vi></dt></def><uro><ure>in*vit*er</ure> <fl>noun</fl></uro></entry>
+	<entry id="invite[2]"><ew>invite</ew><hw hindex="2">in*vite</hw><sound><wav>invite02.wav</wav><wpr>!in-+vIt</wpr></sound><pr>ˈin-ˌvīt</pr><fl>noun</fl><def><date>1659</date><dt>:<sx>invitation <sxn>1</sxn></sx></dt></def></entry>
+</entry_list>

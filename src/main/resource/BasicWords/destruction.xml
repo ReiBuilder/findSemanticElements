@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="destruction"><ew>destruction</ew><hw>de*struc*tion</hw><sound><wav>destru03.wav</wav><wpr>di-!struk-shun</wpr></sound><pr>di-ˈstrək-shən</pr><fl>noun</fl><et>Middle English <it>destruccioun,</it> from Anglo-French <it>destruction,</it> from Latin <it>destruction-, destructio,</it> from <it>destruere</it></et><def><date>14th century</date> <sn>1</sn> <dt>:the state or fact of being <fw>destroyed</fw> :<sx>ruin</sx></dt> <sn>2</sn> <dt>:the action or process of <fw>destroying</fw> something</dt> <sn>3</sn> <dt>:a destroying agency</dt></def></entry>
+	<entry id="self-destruction"><ew>self-destruction</ew><hw>self–de*struc*tion</hw><sound><wav>selfde12.wav</wav><wpr>+self-di-!struk-shun</wpr></sound><pr>-ˈstrək-shən</pr><fl>noun</fl><def><date>circa 1586</date><dt>:destruction of oneself</dt> <sd>especially</sd> <dt>:<sx>suicide</sx></dt></def></entry>
+</entry_list>

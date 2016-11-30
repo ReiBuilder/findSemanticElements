@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="ache[1]"><ew>ache</ew><subj>MD-1a</subj><hw hindex="1">ache</hw><sound><wav>ache0001.wav</wav><wpr>!Ak</wpr></sound><pr>ˈāk</pr><fl>verb</fl><in><if>ached</if></in><in><if>ach*ing</if></in><et>Middle English <it>aken,</it> from Old English <it>acan</it></et><def><vt>intransitive verb</vt><date>before 12th century</date> <sn>1 a</sn> <dt>:to suffer a usually dull persistent pain <vi>an <it>aching</it> back</vi></dt>  <sn>b</sn> <dt>:to become distressed or disturbed (as with anxiety or regret) <vi><it>aching</it> with sadness</vi></dt>  <sn>c</sn> <dt>:to feel compassion <vi>my heart <it>ache</it><it>s</it> for those poor people</vi></dt> <sn>2</sn> <dt>:to experience a painful eagerness or yearning <vi>he is <it>aching</it> to go</vi></dt></def></entry>
+	<entry id="ache[2]"><ew>ache</ew><subj>MD</subj><hw hindex="2">ache</hw><fl>noun</fl><def><date>before 12th century</date> <sn>1</sn> <dt>:a usually dull persistent pain</dt> <sn>2</sn> <dt>:a condition marked by aching</dt></def></entry>
+</entry_list>

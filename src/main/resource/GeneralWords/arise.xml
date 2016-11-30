@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="arise"><ew>arise</ew><hw>arise</hw><sound><wav>arise001.wav</wav><wpr>u-!rIz</wpr></sound><pr>ə-ˈrīz</pr><fl>verb</fl><in><if>arose</if><sound><wav>arise002.wav</wav><wpr>u-!rOz</wpr></sound> <pr>-ˈrōz</pr></in><in><if>aris*en</if><sound><wav>arise003.wav</wav><wpr>u-!ri-z/un</wpr></sound> <pr>-ˈri-zᵊn</pr></in><in><if>aris*ing</if><sound><wav>arise004.wav</wav><wpr>u-!rI-ziN</wpr></sound> <pr>-ˈrī-ziŋ</pr></in><et>Middle English, from Old English <it>ārīsan,</it> from <it>ā-,</it> perfective prefix + <it>rīsan</it> to rise <ma>abide</ma></et><def><vt>intransitive verb</vt><date>before 12th century</date> <sn>1</sn> <dt>:to get up :<sx>rise</sx></dt> <sn>2 a</sn> <dt>:to originate from a source</dt>  <sn>b</sn> <dt>:to come into being or to attention</dt> <sn>3</sn> <dt>:<sx>ascend</sx></dt><ss>spring</ss></def></entry>
+	<entry id="arose"><ew>arose</ew><hw>arose</hw><cx><cl>past of</cl> <ct>arise</ct></cx></entry>
+</entry_list>

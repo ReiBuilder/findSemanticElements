@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="breakfast"><ew>breakfast</ew><subj>FD</subj><hw>break*fast</hw><sound><wav>breakf01.wav</wav><wpr>!brek-fust</wpr></sound><pr>ˈbrek-fəst</pr><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:the first meal of the day especially when taken in the morning</dt> <sn>2</sn> <dt>:the food prepared for a breakfast <vi>eat your <it>breakfast</it></vi></dt></def><uro><ure>breakfast</ure> <fl>verb</fl></uro><uro><ure>break*fast*er</ure> <fl>noun</fl></uro></entry>
+	<entry id="bed-and-breakfast"><ew>bed-and-breakfast</ew><hw>bed–and–breakfast</hw><fl>noun</fl><def><date>1966</date><dt>:an establishment (as an inn) offering lodging and breakfast</dt></def></entry>
+	<entry id="continental breakfast"><ew>continental breakfast</ew><subj>FD</subj><hw>continental breakfast</hw><fl>noun</fl><lb>often capitalized C</lb><def><date>1896</date><dt>:a light breakfast (as of rolls or toast and coffee)</dt></def></entry>
+	<entry id="dog'sbreakfast"><ew>dog'sbreakfast</ew><hw>dog's breakfast</hw><fl>noun</fl><def><date>circa 1934</date><sl>chiefly British</sl><dt>:a confused mess or mixture</dt></def></entry>
+	<entry id="English breakfast"><ew>English breakfast</ew><subj>FD</subj><hw>English breakfast</hw><fl>noun</fl><def><date>1807</date> <sn>1</sn> <dt>:a substantial breakfast (as of eggs, ham or bacon, toast, and cereal)</dt> <sn>2</sn> <dt>:<sx>congou</sx></dt> <sd>broadly</sd> <dt>:any similar black tea</dt></def></entry>
+</entry_list>

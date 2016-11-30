@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="sharpen"><ew>sharpen</ew><hw>sharp*en</hw><sound><wav>sharpe02.wav</wav><wpr>!sh@r-pun</wpr></sound><pr>ˈshär-pən</pr><fl>verb</fl><in><if>sharp*ened</if></in><in><if>sharp*en*ing</if><sound><wav>sharpe03.wav</wav><wpr>!sh@r-pu-niN</wpr></sound> <pr>ˈshärp-niŋ, ˈshär-pə-</pr></in><def><vt>transitive verb</vt><date>15th century</date> <dt>:to make <fw>sharp</fw> or <fw>sharper</fw></dt> <sd>especially</sd> <dt>:<sx>hone</sx></dt><vt>intransitive verb</vt> <dt>:to become sharp or sharper</dt></def><uro><ure>sharp*en*er</ure><sound><wav>sharpe04.wav</wav><wpr>!sh@r-pu-nur</wpr></sound> <pr>ˈshärp-nər, ˈshär-pə-</pr> <fl>noun</fl></uro></entry>
+</entry_list>

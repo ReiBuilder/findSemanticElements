@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="probable[1]"><ew>probable</ew><subj>PH-1</subj><hw hindex="1">prob*a*ble</hw><sound><wav>probab05.wav</wav><wpr>!pr@-bu-bul</wpr></sound><pr>ˈprä-bə-bəl, ˈprä(b)-bəl</pr><fl>adjective</fl><et>Middle English, from Latin <it>probabilis</it> commendable, probable, from <it>probare</it> to test, approve, prove <ma>prove</ma></et><def><date>1606</date> <sn>1</sn> <dt>:supported by evidence strong enough to establish presumption but not proof <vi>a <it>probable</it> hypothesis</vi></dt> <sn>2</sn> <dt>:establishing a <fw>probability</fw> <vi><it>probable</it> evidence</vi></dt> <sn>3</sn> <dt>:likely to be or become true or real <vi><it>probable</it> outcome</vi></dt></def></entry>
+	<entry id="probable[2]"><ew>probable</ew><hw hindex="2">probable</hw><fl>noun</fl><def><date>1647</date><dt>:one that is probable</dt></def></entry>
+	<entry id="probable cause"><ew>probable cause</ew><subj>LW</subj><hw>probable cause</hw><fl>noun</fl><def><date>circa 1676</date><dt>:a reasonable ground for supposing that a charge is well-founded</dt></def></entry>
+</entry_list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="enclosure"><ew>enclosure</ew><hw>en*clo*sure</hw><sound><wav>enclos02.wav</wav><wpr>in-!klO-zhur</wpr></sound><pr>in-ˈklō-zhər, en-</pr><vr><vl>also</vl> <va>in*clo*sure</va> <pr>in-</pr></vr><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:the act or action of <fw>enclosing</fw> :the quality or state of being <fw>enclosed</fw></dt> <sn>2</sn> <dt>:something that <fw>encloses</fw></dt> <sn>3</sn> <dt>:something enclosed <vi>a letter with two <it>enclosure</it><it>s</it></vi></dt></def></entry>
+	<entry id="inclose"><ew>inclose</ew><hw>inclose</hw><sound><wav>enclos01.wav</wav><wpr>in-!klOz</wpr></sound><ahw>inclosure</ahw><cx><cl>variant of</cl> <ct>enclose</ct> <ct>enclosure</ct></cx></entry>
+</entry_list>

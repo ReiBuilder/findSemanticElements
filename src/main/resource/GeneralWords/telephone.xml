@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="telephone[1]"><ew>telephone</ew><subj>TL</subj><hw hindex="1">tele*phone</hw><sound><wav>teleph01.wav</wav><wpr>!te-lu-+fOn</wpr></sound><pr>ˈte-lə-ˌfōn</pr><fl>noun</fl><lb>often attributive</lb><def><date>1844</date><dt>:an instrument for reproducing sounds at a distance</dt> <sd>specifically</sd> <dt>:one in which sound is converted into electrical impulses for transmission (as by wire or radio waves)</dt></def></entry>
+	<entry id="telephone[2]"><ew>telephone</ew><subj>TL</subj><hw hindex="2">telephone</hw><fl>verb</fl><in><if>telephoned</if></in><in><if>telephon*ing</if></in><def><vt>transitive verb</vt><date>1877</date> <sn>1</sn> <dt>:to speak to or attempt to reach by telephone</dt> <sn>2</sn> <dt>:to send by telephone</dt><vt>intransitive verb</vt> <dt>:to communicate by telephone</dt></def><uro><ure>tele*phon*er</ure> <fl>noun</fl></uro></entry>
+	<entry id="telephone book"><ew>telephone book</ew><subj>TL</subj><hw>telephone book</hw><fl>noun</fl><def><date>1915</date><dt>:a book listing the names, addresses, and telephone numbers of telephone customers</dt></def></entry>
+	<entry id="telephone booth"><ew>telephone booth</ew><subj>TL</subj><hw>telephone booth</hw><fl>noun</fl><def><date>circa 1895</date><dt>:an enclosure within which one may stand or sit while making a telephone call</dt></def></entry>
+	<entry id="telephone box"><ew>telephone box</ew><subj>TL</subj><hw>telephone box</hw><fl>noun</fl><def><date>1904</date><sl>British</sl><dt>:a public telephone booth</dt></def></entry>
+	<entry id="telephone directory"><ew>telephone directory</ew><subj>TL</subj><hw>telephone directory</hw><fl>noun</fl><def><date>1907</date><dt>:<sx>telephone book</sx></dt></def></entry>
+	<entry id="telephone number"><ew>telephone number</ew><subj>TL</subj><hw>telephone number</hw><fl>noun</fl><def><date>1885</date><dt>:a number assigned to a telephone line for a specific location that is used to call that location</dt></def></entry>
+	<entry id="telephone tag"><ew>telephone tag</ew><hw>telephone tag</hw><fl>noun</fl><def><date>1980</date><dt>:telephoning back and forth by parties trying to reach each other without success</dt></def></entry>
+	<entry id="French telephone"><ew>French telephone</ew><subj>TL</subj><hw>French telephone</hw><fl>noun</fl><def><date>1932</date><dt>:<sx>handset</sx></dt></def></entry>
+	<entry id="wireless telephone"><ew>wireless telephone</ew><subj>TL</subj><hw>wireless telephone</hw><fl>noun</fl><def><date>1894</date><dt>:<sx>radiotelephone</sx></dt></def></entry>
+</entry_list>

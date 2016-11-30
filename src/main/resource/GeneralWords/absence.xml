@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="absence"><ew>absence</ew><hw>ab*sence</hw><sound><wav>absenc01.wav</wav></sound><pr>ˈab-sən(t)s</pr><fl>noun</fl><et><dx_ety>(see <dxt>absent</dxt>)</dx_ety></et><def><date>14th century</date> <sn>1</sn> <dt>:the state of being <d_link>absent</d_link></dt> <sn>2</sn> <dt>:the period of time that one is <d_link>absent</d_link></dt> <sn>3</sn> <dt>:<sx>want</sx> <sx>lack</sx> <vi>an <it>absence</it> of detail</vi></dt> <sn>4</sn> <dt>:inattention to present surroundings or occurrences <vi><it>absence</it> of mind</vi></dt></def></entry>
+	<entry id="leave of absence"><ew>leave of absence</ew><grp>leave of</grp><grp>leave absence</grp><grp>of absence</grp><hw>leave of absence</hw><def><date>1756</date> <sn>1</sn> <dt>:permission to be absent from duty or employment</dt> <sn>2</sn> <dt>:<sx>leave <sxn>1b</sxn></sx></dt></def></entry>
+</entry_list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="weapon[1]"><ew>weapon</ew><subj>WX-1</subj><hw hindex="1">weap*on</hw><sound><wav>weapon01.wav</wav><wpr>!we-pun</wpr></sound><pr>ˈwe-pən</pr><fl>noun</fl><et>Middle English <it>wepen,</it> from Old English <it>wǣpen;</it> akin to Old High German <it>wāffan</it> weapon, Old Norse <it>vāpn</it></et><def><date>before 12th century</date> <sn>1</sn> <dt>:something (as a club, knife, or gun) used to injure, defeat, or destroy</dt> <sn>2</sn> <dt>:a means of contending against another</dt></def></entry>
+	<entry id="weapon[2]"><ew>weapon</ew><hw hindex="2">weapon</hw><fl>verb</fl><def><vt>transitive verb</vt><date>before 12th century</date><dt>:<sx>arm</sx></dt></def></entry>
+	<entry id="assault weapon"><ew>assault weapon</ew><subj>WX</subj><hw>assault weapon</hw><fl>noun</fl><def><date>1973</date><dt>:any of various automatic or semiautomatic firearms</dt> <sd>especially</sd> <dt>:<sx>assault rifle</sx></dt></def></entry>
+	<entry id="biological weapon"><ew>biological weapon</ew><subj>MB#ML#LW#MD</subj><hw>biological weapon</hw><fl>noun</fl><def><date>1947</date><dt>:a harmful biological agent (as a pathogenic microorganism or a neurotoxin) used as a weapon to cause death or disease usually on a large scale</dt></def></entry>
+	<entry id="chemical weapon"><ew>chemical weapon</ew><subj>ML</subj><hw>chemical weapon</hw><fl>noun</fl><def><date>1920</date><dt>:a weapon used in chemical warfare</dt></def></entry>
+</entry_list>

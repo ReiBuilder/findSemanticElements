@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="admire"><ew>admire</ew><hw>ad*mire</hw><sound><wav>admire01.wav</wav><wpr>ud-!mIr</wpr></sound><pr>əd-ˈmī(-ə)r</pr><fl>verb</fl><in><if>ad*mired</if></in><in><if>ad*mir*ing</if></in><et>Middle French <it>admirer,</it> to marvel at, from Latin <it>admirari,</it> from <it>ad-</it> + <it>mirari</it> to wonder, from <it>mirus</it> astonishing</et><def><vt>transitive verb</vt><date>1566</date> <sn>1</sn> <dt>:to regard with <fw>admiration</fw></dt> <sn>2</sn> <ssl>archaic</ssl> <dt>:to marvel at</dt><vt>intransitive verb</vt> <ssl>dialect</ssl><dt>:to like very much <vi>I would <it>admire</it> to know why not <aq>A. H. Lewis</aq></vi></dt><ss>regard</ss></def><uro><ure>ad*mir*er</ure> <fl>noun</fl></uro><uro><ure>ad*mir*ing*ly</ure><sound><wav>admire02.wav</wav><wpr>ud-!mI-riN-lE</wpr></sound> <pr>-ˈmī-riŋ-lē</pr> <fl>adverb</fl></uro></entry>
+</entry_list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="loaf[1]"><ew>loaf</ew><subj>FD-1#FD-2</subj><hw hindex="1">loaf</hw><sound><wav>loaf0001.wav</wav><wpr>!lOf</wpr></sound><pr>ˈlōf</pr><fl>noun</fl><in><il>plural</il> <if>loaves</if><sound><wav>loaf0002.wav</wav><wpr>!lOvz</wpr></sound> <pr>ˈlōvz</pr></in><et>Middle English <it>lof,</it> from Old English <it>hlāf;</it> akin to Old High German <it>hleib</it> loaf</et><def><date>before 12th century</date> <sn>1</sn> <dt>:a shaped or molded mass of bread</dt> <sn>2</sn> <dt>:a shaped or molded often symmetrical mass of food</dt> <sn>3</sn> <ssl>slang British</ssl> <dt>:<sx>head</sx> <sx>mind</sx></dt></def></entry>
+	<entry id="loaf[2]"><ew>loaf</ew><hw hindex="2">loaf</hw><fl>verb</fl><et>probably back-formation from <it>loafer</it></et><def><vt>intransitive verb</vt><date>1835</date><dt>:to spend time in idleness</dt><ss>idle</ss></def></entry>
+	<entry id="meat loaf"><ew>meat loaf</ew><subj>FD</subj><hw>meat loaf</hw><fl>noun</fl><def><date>1892</date><dt>:a dish of ground meat seasoned and baked in the form of a loaf</dt></def></entry>
+	<entry id="sugarloaf"><ew>sugarloaf</ew><subj>FD-1#GE-2</subj><hw>sug*ar*loaf</hw><sound><wav>sugarl01.wav</wav><wpr>!sh2-gur-+lOf</wpr></sound><pr>ˈshu̇-gər-ˌlōf</pr><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:refined <fw>sugar</fw> molded into a cone</dt> <sn>2</sn> <dt>:a hill or mountain shaped like a sugarloaf</dt></def><uro><ure>sugar–loaf</ure> <fl>adjective</fl></uro></entry>
+</entry_list>

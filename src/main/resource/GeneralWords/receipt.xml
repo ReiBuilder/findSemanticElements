@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="receipt[1]"><ew>receipt</ew><subj>BZ-5</subj><hw hindex="1">re*ceipt</hw><sound><wav>receip01.wav</wav><wpr>ri-!sEt</wpr></sound><pr>ri-ˈsēt</pr><fl>noun</fl><et>Middle English <it>receite,</it> from Anglo-French, from Medieval Latin <it>recepta,</it> probably from Latin, neuter plural of <it>receptus,</it> past participle of <it>recipere</it> to receive</et><def><date>14th century</date> <sn>1</sn> <dt>:<sx>recipe</sx></dt> <sn>2 a</sn> <ssl>obsolete</ssl> <dt>:<sx>receptacle</sx></dt>  <sn>b</sn> <ssl>archaic</ssl> <dt>:a revenue office</dt> <sn>3</sn> <dt>:the act or process of <fw>receiving</fw></dt> <sn>4</sn> <dt>:something <fw>received</fw> <un>usually used in plural</un></dt> <sn>5</sn> <dt>:a writing acknowledging the receiving of goods or money</dt></def></entry>
+	<entry id="receipt[2]"><ew>receipt</ew><subj>BZ</subj><hw hindex="2">receipt</hw><fl>verb</fl><def><vt>transitive verb</vt><date>1787</date> <sn>1</sn> <dt>:to give a receipt for or acknowledge the receipt of</dt> <sn>2</sn> <dt>:to mark as paid</dt></def></entry>
+</entry_list>

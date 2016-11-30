@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="imitate"><ew>imitate</ew><hw>im*i*tate</hw><sound><wav>imitat01.wav</wav><wpr>!i-mu-+tAt</wpr></sound><pr>ˈi-mə-ˌtāt</pr><fl>verb</fl><in><if>im*i*tat*ed</if></in><in><if>im*i*tat*ing</if></in><et>Latin <it>imitatus,</it> past participle of <it>imitari</it> <ma>image</ma></et><def><vt>transitive verb</vt><date>1534</date> <sn>1</sn> <dt>:to follow as a pattern, model, or example</dt> <sn>2</sn> <dt>:to be or appear like :<sx>resemble</sx></dt> <sn>3</sn> <dt>:to produce a copy of :<sx>reproduce</sx></dt> <sn>4</sn> <dt>:<sx>mimic</sx> <sx>counterfeit</sx> <vi>can <it>imitate</it> his father's booming voice</vi></dt><ss>copy</ss></def><uro><ure>im*i*ta*tor</ure><sound><wav>imitat02.wav</wav><wpr>!i-mu-+tA-tur</wpr></sound> <pr>-ˌtā-tər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

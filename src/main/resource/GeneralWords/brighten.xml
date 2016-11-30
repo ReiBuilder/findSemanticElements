@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="brighten"><ew>brighten</ew><hw>bright*en</hw><sound><wav>bright02.wav</wav><wpr>!brI-t/un</wpr></sound><pr>ˈbrī-tᵊn</pr><fl>verb</fl><in><if>bright*ened</if></in><in><if>bright*en*ing</if><sound><wav>bright03.wav</wav><wpr>!brI-t/un-iN</wpr></sound> <pr>ˈbrīt-niŋ, ˈbrī-tᵊn-iŋ</pr></in><def><vt>intransitive verb</vt><date>14th century</date> <dt>:to become <fw>bright</fw> or <fw>brighter</fw> <vi>her mood <it>brighten</it><it>ed</it></vi></dt><vt>transitive verb</vt> <dt>:to make bright or brighter <vi>the gift <it>brighten</it><it>ed</it> my day</vi></dt></def><uro><ure>bright*en*er</ure><sound><wav>bright04.wav</wav><wpr>!brI-t/un-ur</wpr></sound> <pr>ˈbrīt-nər, ˈbrī-tᵊn-ər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

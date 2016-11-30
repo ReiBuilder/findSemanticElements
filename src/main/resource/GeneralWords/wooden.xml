@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="wooden"><ew>wooden</ew><subj>BT-1#WP-1</subj><hw>wood*en</hw><sound><wav>wooden01.wav</wav><wpr>!w2-d/un</wpr></sound><pr>ˈwu̇-dᵊn</pr><fl>adjective</fl><def><date>1538</date> <sn>1</sn> <dt>:made or consisting of wood</dt> <sn>2</sn> <dt>:lacking ease or flexibility :awkwardly stiff <vi>a <it>wooden</it> speech</vi> <vi>a <it>wooden</it> performer</vi></dt></def><uro><ure>wood*en*ly</ure> <fl>adverb</fl></uro><uro><ure>wood*en*ness</ure><sound><wav>wooden02.wav</wav><wpr>!w2-d/un-(n)us</wpr></sound> <pr>-dᵊn-(n)əs</pr> <fl>noun</fl></uro></entry>
+	<entry id="wooden Indian"><ew>wooden Indian</ew><hw>wooden Indian</hw><fl>noun</fl><def><date>1855</date><dt>:a wooden image of a standing American Indian brave used especially formerly as a sign for a cigar store</dt></def></entry>
+</entry_list>

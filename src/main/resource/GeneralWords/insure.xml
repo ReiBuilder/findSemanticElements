@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="insure"><ew>insure</ew><subj>EC-vt1#EC-vi</subj><hw>in*sure</hw><sound><wav>insure01.wav</wav></sound><pr>in-ˈshu̇r</pr><fl>verb</fl><in><if>in*sured</if></in><in><if>in*sur*ing</if></in><et>Middle English, to assure, probably alteration of <it>assuren</it></et><def><vt>transitive verb</vt><date>1635</date> <sn>1</sn> <dt>:to provide or obtain <fw>insurance</fw> on or for</dt> <sn>2</sn> <dt>:to make certain especially by taking necessary measures and <d_link>precautions</d_link></dt><vt>intransitive verb</vt> <dt>:to contract to give or take insurance</dt><ss>ensure</ss></def></entry>
+	<entry id="self-insure"><ew>self-insure</ew><subj>EC</subj><hw>self–insure</hw><sound><wav>selfin11.wav</wav><wpr>+self-in-!sh2r</wpr></sound><pr>-in-ˈshu̇r</pr><fl>verb</fl><def><date>1932</date><dt>:to insure oneself</dt> <sd>especially</sd> <dt>:to practice self-insurance</dt></def><uro><ure>self–insurer</ure><sound><wav>selfin12.wav</wav><wpr>+self-in-!sh2r-ur</wpr></sound> <pr>-ˈshu̇r-ər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

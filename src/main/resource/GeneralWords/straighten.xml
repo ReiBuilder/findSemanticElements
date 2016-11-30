@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="straighten"><ew>straighten</ew><hw>straight*en</hw><sound><wav>straig12.wav</wav><wpr>!strA-t/un</wpr></sound><pr>ˈstrā-tᵊn</pr><fl>verb</fl><in><if>straight*ened</if></in><in><if>straight*en*ing</if><sound><wav>straig13.wav</wav><wpr>!strA-t/un-iN</wpr></sound> <pr>ˈstrāt-niŋ, ˈstrā-tᵊn-iŋ</pr></in><def><vt>transitive verb</vt><date>1542</date> <dt>:to make <fw>straight</fw> <un>usually used with <it>up</it> or <it>out</it></un></dt><vt>intransitive verb</vt> <dt>:to become straight <un>usually used with <it>up</it> or <it>out</it></un></dt></def><uro><ure>straight*en*er</ure><sound><wav>straig14.wav</wav><wpr>!strA-t/un-ur</wpr></sound> <pr>ˈstrāt-nər, ˈstrā-tᵊn-ər</pr> <fl>noun</fl></uro></entry>
+</entry_list>

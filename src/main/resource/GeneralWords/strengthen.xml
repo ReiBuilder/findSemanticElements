@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="strengthen"><ew>strengthen</ew><hw>strength*en</hw><sound><wav>streng04.wav</wav><wpr>!streN(k)-thun</wpr></sound><pr>ˈstreŋ(k)-thən, ˈstren(t)-</pr><fl>verb</fl><in><if>strength*ened</if></in><in><if>strength*en*ing</if><sound><wav>streng05.wav</wav><wpr>!streN(k)-thu-niN</wpr></sound> <pr>ˈstreŋ(k)th-niŋ, ˈstren(t)th-; ˈstreŋ(k)-thə-, ˈstren(t)-</pr></in><def><vt>transitive verb</vt><date>15th century</date> <dt>:to make stronger</dt><vt>intransitive verb</vt> <dt>:to become stronger</dt></def><uro><ure>strength*en*er</ure><sound><wav>streng06.wav</wav><wpr>!streN(k)-thu-nur</wpr></sound> <pr>ˈstreŋ(k)th-nər, ˈstren(t)th-; ˈstreŋ(k)-thə-, ˈstren(t)-</pr> <fl>noun</fl></uro></entry>
+</entry_list>

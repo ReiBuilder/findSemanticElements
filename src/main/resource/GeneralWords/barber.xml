@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="barber[1]"><ew>barber</ew><subj>JB#FH</subj><hw hindex="1">bar*ber</hw><sound><wav>barber01.wav</wav><wpr>!b@r-bur</wpr></sound><pr>ˈbär-bər</pr><fl>noun</fl><et>Middle English, from Anglo-French <it>barbour,</it> from <it>barbe</it> beard <ma>barb</ma></et><def><date>14th century</date><dt>:one whose business is cutting and dressing hair, shaving and trimming beards, and performing related services</dt></def></entry>
+	<entry id="barber[2]"><ew>barber</ew><subj>FH</subj><hw hindex="2">barber</hw><fl>verb</fl><in><if>bar*bered</if></in><in><if>bar*ber*ing</if><sound><wav>barber02.wav</wav><wpr>!b@r-b(u-)riN</wpr></sound> <pr>-b(ə-)riŋ</pr></in><def><vt>transitive verb</vt><date>1606</date> <dt>:to perform the services of a barber for</dt> <dt>:trim or groom the hair or beard of</dt><vt>intransitive verb</vt> <dt>:to perform the services of a barber</dt></def></entry>
+	<entry id="Barber"><ew>Barber</ew><hw>Bar*ber</hw><sound><wav>bixbar04.wav</wav></sound><pr>ˈbär-bər</pr><fl>biographical name</fl><def><dt>Samuel 1910–1981 Am. composer</dt></def></entry>
+</entry_list>

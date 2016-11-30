@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="headache"><ew>headache</ew><subj>MD-1</subj><hw>head*ache</hw><sound><wav>headac01.wav</wav><wpr>!he-+dAk</wpr></sound><pr>ˈhed-ˌāk</pr><fl>noun</fl><def><date>before 12th century</date> <sn>1</sn> <dt>:pain in the head</dt> <sn>2</sn> <dt>:a vexatious or baffling situation or problem <vi>meetings had become a giant <it>headache</it> <aq>Franklin Foer</aq></vi></dt></def><uro><ure>head*achy</ure><sound><wav>headac02.wav</wav><wpr>!he-+dA-kE</wpr></sound> <vr><vl>also</vl> <va>head*achey</va> <pr>-ˌā-kē</pr></vr> <fl>adjective</fl></uro></entry>
+	<entry id="cluster headache"><ew>cluster headache</ew><subj>MD</subj><hw>cluster headache</hw><fl>noun</fl><def><date>1953</date><dt>:a headache that is characterized by severe pain in the eye or temple and tends to recur in a series of attacks</dt></def></entry>
+	<entry id="ice-cream headache"><ew>ice-cream headache</ew><hw>ice–cream headache</hw><fl>noun</fl><def><date>1964</date><dt>:<sx>brain freeze</sx></dt></def></entry>
+	<entry id="sick headache"><ew>sick headache</ew><subj>MD</subj><hw>sick headache</hw><fl>noun</fl><def><date>1778</date><dt>:<sx>migraine</sx></dt></def></entry>
+	<entry id="tension headache"><ew>tension headache</ew><subj>MD</subj><hw>tension headache</hw><fl>noun</fl><def><date>1953</date><dt>:bilateral headache marked by mild to moderate pain of variable duration that typically is accompanied by contraction of the neck and scalp muscles</dt></def></entry>
+</entry_list>

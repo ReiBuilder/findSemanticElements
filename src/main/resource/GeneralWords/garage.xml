@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="garage[1]"><ew>garage</ew><subj>AV-1#FU-2#BZ-1</subj><hw hindex="1">ga*rage</hw><sound><wav>garage01.wav</wav><wpr>gu-!r@zh</wpr><wav>garage02.wav</wav><wpr>gu-!r@j</wpr></sound><pr>gə-ˈräzh, -ˈräj; <it>Canada also</it> -ˈrazh, -ˈraj; <it>British usually</it> ˈga-(ˌ)räzh, -(ˌ)räj, -rij</pr><fl>noun</fl><et>French, act of docking, garage, from <it>garer</it> to dock, from Middle French <it>garrer,</it> probably ultimately from Old Norse <it>vara</it> to beware, take care; akin to Old High German bi<it>warōn</it> to protect <ma>ware</ma></et><def><date>1902</date> <sn>1</sn> <dt>:a shelter or repair shop for automotive vehicles</dt> <sn>2</sn> <dt>:a cabinet with a vertical rolling door that is used for storing a small kitchen appliance</dt></def></entry>
+	<entry id="garage[2]"><ew>garage</ew><hw hindex="2">garage</hw><fl>verb</fl><in><if>ga*raged</if></in><in><if>ga*rag*ing</if></in><def><vt>transitive verb</vt><date>1905</date><dt>:to keep or put in a garage</dt></def></entry>
+	<entry id="garage band"><ew>garage band</ew><subj>MU</subj><hw>garage band</hw><fl>noun</fl><def><date>1972</date><dt>:an amateur rock band typically holding its rehearsals in a garage and usually having only a local audience</dt></def></entry>
+	<entry id="garage sale"><ew>garage sale</ew><hw>garage sale</hw><fl>noun</fl><def><date>1964</date><dt>:a sale of used household or personal articles (as furniture, tools, or clothing) held on the seller's own premises</dt></def></entry>
+</entry_list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="loosen"><ew>loosen</ew><subj>MD-vt3</subj><hw>loos*en</hw><sound><wav>loosen01.wav</wav><wpr>!lU-s/un</wpr></sound><pr>ˈlü-sᵊn</pr><fl>verb</fl><in><if>loos*ened</if></in><in><if>loos*en*ing</if><sound><wav>loosen02.wav</wav><wpr>!lU-s/un-iN</wpr></sound> <pr>ˈlüs-niŋ, ˈlü-sᵊn-iŋ</pr></in><def><vt>transitive verb</vt><date>14th century</date> <sn>1</sn> <dt>:to release from restraint</dt> <sn>2</sn> <dt>:to make <fw>looser</fw> <vi><it>loosen</it><it>ed</it> his tie</vi> <vi><it>loosen</it> a screw</vi></dt> <sn>3</sn> <dt>:to relieve (the bowels) of constipation</dt> <sn>4</sn> <dt>:to cause or permit to become less strict <un>often used with <it>up</it> <vi><it>loosen</it><it>ed</it> the rules</vi></un></dt><vt>intransitive verb</vt> <dt>:to become <fw>loose</fw> or looser</dt></def></entry>
+	<entry id="loosen up"><ew>loosen up</ew><hw>loosen up</hw><fl>verb</fl><def><vt>intransitive verb</vt><date>1922</date><dt>:to become less tense :<sx>relax</sx></dt></def></entry>
+</entry_list>

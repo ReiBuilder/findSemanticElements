@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="hello"><ew>hello</ew><hw>hel*lo</hw><sound><wav>hello001.wav</wav><wpr>hu-!lO</wpr></sound><pr>hə-ˈlō, he-</pr><fl>noun</fl><in><il>plural</il> <if>hellos</if></in><et>alteration of <it>hollo</it></et><def><date>1877</date><dt>:an expression or gesture of greeting <un>used interjectionally in greeting, in answering the telephone, or to express surprise</un></dt></def></entry>
+	<entry id="hullo"><ew>hullo</ew><hw>hul*lo</hw><sound><wav>hullo001.wav</wav><wpr>(+)hu-!lO</wpr></sound><pr>(ˌ)hə-ˈlō</pr><cx><cl>chiefly British variant of</cl> <ct>hello</ct></cx></entry>
+</entry_list>

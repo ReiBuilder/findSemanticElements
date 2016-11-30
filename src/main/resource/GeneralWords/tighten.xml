@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="tighten"><ew>tighten</ew><hw>tight*en</hw><sound><wav>tighte01.wav</wav><wpr>!tI-t/un</wpr></sound><pr>ˈtī-tᵊn</pr><fl>verb</fl><in><if>tight*ened</if></in><in><if>tight*en*ing</if><sound><wav>tighte02.wav</wav><wpr>!tI-t/un-iN</wpr></sound> <pr>ˈtīt-niŋ, ˈtī-tᵊn-iŋ</pr></in><def><vt>transitive verb</vt><date>circa 1727</date> <dt>:to make <fw>tight</fw> or <fw>tighter</fw></dt><vt>intransitive verb</vt> <dt>:to become tight or tighter</dt></def><uro><ure>tight*en*er</ure><sound><wav>tighte03.wav</wav><wpr>!tI-t/un-ur</wpr></sound> <pr>ˈtīt-nər, ˈtī-tᵊn-ər</pr> <fl>noun</fl></uro><dro><drp>tighten one's belt</drp> <def><dt>:to practice strict economy</dt></def></dro></entry>
+</entry_list>

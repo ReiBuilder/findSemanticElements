@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="kneel"><ew>kneel</ew><hw>kneel</hw><sound><wav>kneel001.wav</wav><wpr>!nE(u)l</wpr></sound><pr>ˈnēl</pr><fl>verb</fl><in><if>knelt</if><sound><wav>knelt001.wav</wav><wpr>!nelt</wpr></sound> <pr>ˈnelt</pr> <il>or</il> <if>kneeled</if></in><in><if>kneel*ing</if></in><et>Middle English <it>knelen,</it> from Old English <it>cnēowlian;</it> akin to Old English <it>cnēow</it> knee</et><def><vt>intransitive verb</vt><date>before 12th century</date><dt>:to bend the knee :fall or rest on the <fw>knees</fw></dt></def></entry>
+</entry_list>

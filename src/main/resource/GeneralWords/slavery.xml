@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="slavery"><ew>slavery</ew><subj>GV-3#SY-3</subj><hw>slav*ery</hw><sound><wav>slaver04.wav</wav><wpr>!slA-v(u-)rE</wpr></sound><pr>ˈslā-v(ə-)rē</pr><fl>noun</fl><def><date>1551</date> <sn>1</sn> <dt>:<sx>drudgery</sx> <sx>toil</sx></dt> <sn>2</sn> <dt>:submission to a dominating influence</dt> <sn>3 a</sn> <dt>:the state of a person who is a chattel of another</dt>  <sn>b</sn> <dt>:the practice of <fw>slaveholding</fw></dt></def></entry>
+	<entry id="white slavery"><ew>white slavery</ew><subj>SY#LW</subj><hw>white slavery</hw><fl>noun</fl><def><date>1857</date><dt>:enforced prostitution</dt></def></entry>
+</entry_list>

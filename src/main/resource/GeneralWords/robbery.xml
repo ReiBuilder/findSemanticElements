@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="robbery"><ew>robbery</ew><subj>SY#LW</subj><hw>rob*bery</hw><sound><wav>robber01.wav</wav><wpr>!r@-b(u-)rE</wpr></sound><pr>ˈrä-b(ə-)rē</pr><fl>noun</fl><in><il>plural</il> <if>rob*ber*ies</if></in><def><date>13th century</date><dt>:the act or practice of <fw>robbing</fw></dt> <sd>specifically</sd> <dt>:larceny from the person or presence of another by violence or threat</dt></def></entry>
+	<entry id="highway robbery"><ew>highway robbery</ew><subj>LW-1#BZ-2</subj><hw>highway robbery</hw><fl>noun</fl><def><date>1752</date> <sn>1</sn> <dt>:robbery committed on or near a public highway usually against travelers</dt> <sn>2</sn> <dt>:excessive profit or advantage derived from a business transaction</dt></def></entry>
+</entry_list>

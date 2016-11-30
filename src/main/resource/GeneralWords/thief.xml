@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="thief"><ew>thief</ew><subj>LW</subj><hw>thief</hw><sound><wav>thief001.wav</wav><wpr>!thEf</wpr></sound><pr>ˈthēf</pr><fl>noun</fl><in><il>plural</il> <if>thieves</if><sound><wav>thief002.wav</wav><wpr>!thEvz</wpr></sound> <pr>ˈthēvz</pr></in><et>Middle English <it>theef,</it> from Old English <it>thēof;</it> akin to Old High German <it>diob</it> thief</et><def><date>before 12th century</date><dt>:one that steals especially stealthily or secretly</dt> <sd>also</sd> <dt>:one who commits theft or larceny</dt></def></entry>
+	<entry id="sneak thief"><ew>sneak thief</ew><subj>SY</subj><hw>sneak thief</hw><fl>noun</fl><def><date>circa 1859</date><dt>:a thief who steals whatever is readily available without using violence or forcibly breaking into buildings</dt></def></entry>
+</entry_list>

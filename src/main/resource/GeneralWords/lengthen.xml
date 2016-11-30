@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="lengthen"><ew>lengthen</ew><hw>length*en</hw><sound><wav>length04.wav</wav><wpr>!leN(k)-thun</wpr></sound><pr>ˈleŋ(k)-thən, ˈlen(t)-</pr><fl>verb</fl><in><if>length*ened</if></in><in><if>length*en*ing</if><sound><wav>length05.wav</wav><wpr>!leN(k)-thu-niN</wpr></sound> <pr>ˈleŋ(k)th-niŋ, ˈlen(t)th-; ˈleŋ(k)-thə-, ˈlen(t)-</pr></in><def><vt>transitive verb</vt><date>14th century</date> <dt>:to make longer</dt><vt>intransitive verb</vt> <dt>:to grow longer</dt><ss>extend</ss></def><uro><ure>length*en*er</ure><sound><wav>length06.wav</wav><wpr>!leN(k)-thu-nur</wpr></sound> <pr>ˈleŋ(k)th-nər, ˈlen(t)th-; ˈleŋ(k)-thə-, ˈlen(t)-</pr> <fl>noun</fl></uro></entry>
+</entry_list>

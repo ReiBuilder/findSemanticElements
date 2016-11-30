@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="spite[1]"><ew>spite</ew><hw hindex="1">spite</hw><sound><wav>spite001.wav</wav><wpr>!spIt</wpr></sound><pr>ˈspīt</pr><fl>noun</fl><et>Middle English, short for <it>despite</it></et><def><date>14th century</date> <sn>1</sn> <dt>:petty ill will or hatred with the disposition to irritate, annoy, or thwart</dt> <sn>2</sn> <dt>:an instance of spite</dt><ss>malice</ss></def><dro><drp>in spite of</drp> <def><dt>:in defiance or contempt of :without being prevented by <vi>succeeded <it>in spite of</it> their opposition</vi></dt></def></dro></entry>
+	<entry id="spite[2]"><ew>spite</ew><hw hindex="2">spite</hw><fl>verb</fl><in><if>spit*ed</if></in><in><if>spit*ing</if></in><def><vt>transitive verb</vt><date>circa 1555</date> <sn>1 a</sn> <dt>:<sx>annoy</sx> <sx>offend</sx></dt>  <sn>b</sn> <dt>:to fill with spite</dt> <sn>2</sn> <dt>:to treat maliciously (as by shaming or thwarting)</dt></def></entry>
+</entry_list>

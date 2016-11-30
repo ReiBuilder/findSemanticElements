@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="noon"><ew>noon</ew><subj>CA-1#CA-2</subj><hw>noon</hw><sound><wav>noon0001.wav</wav><wpr>!nUn</wpr></sound><pr>ˈnün</pr><fl>noun</fl><et>Middle English, from Old English <it>nōn</it> ninth hour from sunrise, from Latin <it>nona,</it> from feminine of <it>nonus</it> ninth; akin to Latin <it>novem</it> nine <ma>nine</ma></et><def><date>13th century</date> <sn>1</sn> <dt>:<sx>midday</sx></dt> <sd>specifically</sd> <dt>:12 o'clock at midday</dt> <sn>2</sn> <ssl>archaic</ssl> <dt>:<sx>midnight</sx> <un>used chiefly in the phrase <it>noon of night</it></un></dt> <sn>3</sn> <dt>:the highest point</dt></def></entry>
+	<entry id="high noon"><ew>high noon</ew><hw>high noon</hw><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:precisely noon</dt> <sn>2</sn> <dt>:the most advanced, flourishing, or creative stage or period <vi>the <it>high noon</it> of her career</vi></dt> <sn>3</sn> <dt>:the time of a decisive confrontation or contest</dt></def></entry>
+</entry_list>

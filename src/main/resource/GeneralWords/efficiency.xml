@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="efficiency"><ew>efficiency</ew><subj>BZ-2b(1)#IE-2b(1)#ME-2b(2)#AC-3</subj><hw>ef*fi*cien*cy</hw><sound><wav>effici01.wav</wav><wpr>i-!fi-shun-sE</wpr></sound><pr>i-ˈfi-shən-sē</pr><fl>noun</fl><in><il>plural</il> <if>ef*fi*cien*cies</if></in><def><date>1633</date> <sn>1</sn> <dt>:the quality or degree of being <fw>efficient</fw></dt> <sn>2 a</sn> <dt>:efficient operation</dt>  <sn>b <snp>(1)</snp></sn> <dt>:effective operation as measured by a comparison of production with cost (as in energy, time, and money)</dt>  <sn><snp>(2)</snp></sn> <dt>:the ratio of the useful energy delivered by a dynamic system to the energy supplied to it</dt> <sn>3</sn> <dt>:<sx>efficiency apartment</sx></dt></def></entry>
+	<entry id="efficiency apartment"><ew>efficiency apartment</ew><subj>AC</subj><hw>efficiency apartment</hw><fl>noun</fl><def><date>1930</date><dt>:a small usually furnished apartment with minimal kitchen and bath facilities</dt></def></entry>
+	<entry id="efficiency expert"><ew>efficiency expert</ew><subj>JB#BZ#IE</subj><hw>efficiency expert</hw><fl>noun</fl><def><date>1913</date><dt>:one who analyzes methods, procedures, and jobs in order to secure maximum efficiency <ca>called also <cat>efficiency engineer</cat></ca></dt></def></entry>
+</entry_list>

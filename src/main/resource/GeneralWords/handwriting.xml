@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="handwriting"><ew>handwriting</ew><hw>hand*writ*ing</hw><sound><wav>handwr05.wav</wav><wpr>!hand-+rI-tiN</wpr></sound><pr>ˈhand-ˌrī-tiŋ</pr><fl>noun</fl><def><date>15th century</date> <sn>1</sn> <dt>:writing done by hand</dt> <sd>especially</sd> <dt>:the form of writing peculiar to a particular person</dt> <sn>2</sn> <dt>:something written by hand</dt></def><dro><drp>handwriting on the wall</drp> <def><dt>:an omen of one's unpleasant fate</dt></def></dro></entry>
+	<entry id="handwrite"><ew>handwrite</ew><hw>hand*write</hw><sound><wav>handwr02.wav</wav><wpr>!hand-+rIt</wpr></sound><pr>-ˌrīt</pr><fl>verb</fl><in><if>hand*wrote</if><sound><wav>handwr03.wav</wav><wpr>!hand-+rOt</wpr></sound> <pr>-ˌrōt</pr></in><in><if>hand*writ*ten</if><sound><wav>handwr04.wav</wav><wpr>!hand-+ri-t/un</wpr></sound> <pr>-ˌri-tᵊn</pr></in><in><if>hand*writ*ing</if><sound><wav>handwr05.wav</wav><wpr>!hand-+rI-tiN</wpr></sound> <pr>-ˌrī-tiŋ</pr></in><et>back-formation from <it>handwriting</it></et><def><vt>transitive verb</vt><date>circa 1853</date><dt>:to write by hand</dt></def></entry>
+</entry_list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="threat[1]"><ew>threat</ew><hw hindex="1">threat</hw><sound><wav>threat01.wav</wav><wpr>!thret</wpr></sound><pr>ˈthret</pr><fl>noun</fl><et>Middle English <it>thret</it> coercion, threat, from Old English <it>thrēat</it> coercion; akin to Middle High German <it>drōz</it> annoyance, Latin <it>trudere</it> to push, thrust</et><def><date>before 12th century</date> <sn>1</sn> <dt>:an expression of intention to inflict evil, injury, or damage</dt> <sn>2</sn> <dt>:one that <fw>threatens</fw></dt> <sn>3</sn> <dt>:an indication of something impending <vi>the sky held a <it>threat</it> of rain</vi></dt></def></entry>
+	<entry id="threat[2]"><ew>threat</ew><hw hindex="2">threat</hw><fl>verb</fl><def><date>before 12th century</date><sl>archaic</sl><dt>:<sx>threaten</sx></dt></def></entry>
+	<entry id="triple threat"><ew>triple threat</ew><subj>SF-1</subj><hw>triple threat</hw><fl>noun</fl><def><date>1924</date> <sn>1</sn> <dt>:a football player adept at running, kicking, and passing</dt> <sn>2</sn> <dt>:a person adept in three different fields of activity</dt></def><uro><ure>triple–threat</ure> <fl>adjective</fl></uro></entry>
+</entry_list>

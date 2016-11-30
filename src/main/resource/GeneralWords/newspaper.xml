@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="newspaper[1]"><ew>newspaper</ew><subj>PU-1#PU-2#PP-3</subj><hw hindex="1">news*pa*per</hw><sound><wav>newspa01.wav</wav><wpr>!nUz-+pA-pur</wpr></sound><pr>ˈnüz-ˌpā-pər, ˈnyüz-, ˈn(y)üs-</pr><fl>noun</fl><def><date>1670</date> <sn>1</sn> <dt>:a paper that is printed and distributed usually daily or weekly and that contains news, articles of opinion, features, and advertising</dt> <sn>2</sn> <dt>:an organization that publishes a newspaper</dt> <sn>3</sn> <dt>:the paper of a newspaper :<sx>newsprint</sx></dt></def></entry>
+	<entry id="newspaper[2]"><ew>newspaper</ew><subj>PU</subj><hw hindex="2">newspaper</hw><fl>verb</fl><def><vt>intransitive verb</vt><date>1943</date><dt>:to do newspaper work</dt></def></entry>
+</entry_list>

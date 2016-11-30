@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="suspicion[1]"><ew>suspicion</ew><hw hindex="1">sus*pi*cion</hw><sound><wav>suspic01.wav</wav><wpr>su-!spi-shun</wpr></sound><pr>sə-ˈspi-shən</pr><fl>noun</fl><et>Middle English <it>suspecioun,</it> from Anglo-French, from Latin <it>suspicion-, suspicio,</it> from <it>suspicere</it> to suspect <ma>suspect</ma></et><def><date>14th century</date> <sn>1 a</sn> <dt>:the act or an instance of <fw>suspecting</fw> something wrong without proof or on slight evidence :<sx>mistrust</sx></dt>  <sn>b</sn> <dt>:a state of mental uneasiness and uncertainty :<sx>doubt</sx></dt> <sn>2</sn> <dt>:a barely detectable amount :<sx>trace</sx> <vi>just a <it>suspicion</it> of garlic</vi></dt><ss>uncertainty</ss></def></entry>
+	<entry id="suspicion[2]"><ew>suspicion</ew><hw hindex="2">suspicion</hw><fl>verb</fl><in><if>sus*pi*cioned</if></in><in><if>sus*pi*cion*ing</if><sound><wav>suspic02.wav</wav><wpr>su-!spi-sh(u-)niN</wpr></sound> <pr>-ˈspi-sh(ə-)niŋ</pr></in><def><vt>transitive verb</vt><date>circa 1637</date><sl>chiefly dialect</sl><dt>:<sx>suspect</sx></dt></def></entry>
+</entry_list>

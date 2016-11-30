@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="redden"><ew>redden</ew><hw>red*den</hw><sound><wav>redden01.wav</wav><wpr>!re-dun</wpr></sound><pr>ˈre-dᵊn</pr><fl>verb</fl><in><if>red*dened</if></in><in><if>red*den*ing</if><sound><wav>redden02.wav</wav><wpr>!re-dun-iN</wpr></sound> <pr>ˈred-niŋ, ˈre-dᵊn-iŋ</pr></in><def><vt>transitive verb</vt><date>circa 1611</date> <dt>:to make red or <fw>reddish</fw></dt><vt>intransitive verb</vt> <dt>:to become red</dt> <sd>especially</sd> <dt>:<sx>blush</sx></dt></def></entry>
+</entry_list>

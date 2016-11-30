@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="passenger"><ew>passenger</ew><subj>TN-2</subj><hw>pas*sen*ger</hw><sound><wav>passen01.wav</wav><wpr>!pa-s/un-jur</wpr></sound><pr>ˈpa-sᵊn-jər</pr><fl>noun</fl><lb>often attributive</lb><et>Middle English <it>passager,</it> from Anglo-French, from <it>passage</it> path, way, passage, from <it>passer</it></et><def><date>14th century</date> <sn>1</sn> <dt>:<sx>wayfarer</sx></dt> <sn>2</sn> <dt>:a traveler in a public or private conveyance</dt></def></entry>
+	<entry id="passenger pigeon"><ew>passenger pigeon</ew><subj>ZB</subj><art><artref id="pass_p"/><capt>passenger pigeon</capt><dim>100,17</dim></art><hw>passenger pigeon</hw><fl>noun</fl><def><date>1802</date><dt>:an extinct but formerly abundant North American migratory pigeon (<it>Ectopistes migratorius</it>)</dt></def><art><bmp>passpige.bmp</bmp><cap>passenger pigeon</cap></art></entry>
+</entry_list>

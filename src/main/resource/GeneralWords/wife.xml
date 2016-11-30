@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="wife"><ew>wife</ew><subj>SY-2#AP-2</subj><hw>wife</hw><sound><wav>wife0001.wav</wav><wpr>!wIf</wpr></sound><pr>ˈwīf</pr><fl>noun</fl><in><il>plural</il> <if>wives</if><sound><wav>wives001.wav</wav><wpr>!wIvz</wpr></sound> <pr>ˈwīvz</pr></in><et>Middle English <it>wif,</it> from Old English <it>wīf;</it> akin to Old High German <it>wīb</it> wife and probably to Tocharian B <it>kwīpe</it> female pudenda</et><def><date>before 12th century</date> <sn>1 a</sn> <ssl>dialect</ssl> <dt>:<sx>woman</sx></dt>  <sn>b</sn> <dt>:a woman acting in a specified capacity <un>used in combination <vi>fish<it>wife</it></vi></un></dt> <sn>2</sn> <dt>:a female partner in a marriage</dt></def><uro><ure>wife*hood</ure><sound><wav>wifeho01.wav</wav><wpr>!wIf-+h2d</wpr></sound> <pr>ˈwīf-ˌhu̇d, ˈwī-ˌfu̇d</pr> <fl>noun</fl></uro><uro><ure>wife*less</ure><sound><wav>wifele01.wav</wav><wpr>!wI-flus</wpr></sound> <pr>ˈwī-fləs</pr> <fl>adjective</fl></uro></entry>
+	<entry id="wives"><ew>wives</ew><subj>SY</subj><hw>wives</hw><cx><cl>plural of</cl> <ct>wife</ct></cx></entry>
+</entry_list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="pronunciation"><ew>pronunciation</ew><subj>GR</subj><hw>pro*nun*ci*a*tion</hw><sound><wav>pronun03.wav</wav><wpr>pru-+nun(t)-sE-!A-shun</wpr><wav>pronun02.wav</wav><wpr>pru-+na2n(t)-sE-!A-shun</wpr></sound><pr>prə-ˌnən(t)-sē-ˈā-shən <it>also</it> ÷-ˌnau̇n(t)-</pr><fl>noun</fl><et>Middle English <it>pronunciacion,</it> from Anglo-French <it>pronunciation,</it> from Latin <it>pronuntiation-, pronuntiatio,</it> from <it>pronuntiare</it></et><def><date>15th century</date><dt>:the act or manner of <fw>pronouncing</fw> something</dt></def><uro><ure>pro*nun*ci*a*tion*al</ure><sound><wav>pronun04.wav</wav><wpr>pru-+nun(t)-sE-!A-shu-n/ul</wpr></sound> <pr>-shnəl, -shə-nᵊl</pr> <fl>adjective</fl></uro></entry>
+	<entry id="Received Pronunciation"><ew>Received Pronunciation</ew><subj>LN</subj><hw>Received Pronunciation</hw><fl>noun</fl><def><date>1869</date><dt>:the pronunciation of Received Standard</dt></def></entry>
+	<entry id="spelling pronunciation"><ew>spelling pronunciation</ew><subj>GR</subj><hw>spelling pronunciation</hw><fl>noun</fl><def><date>1901</date><dt>:a pronunciation of a word that is based on its spelling alone and often includes the vocalization of silent letters</dt></def></entry>
+</entry_list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="cultivator"><ew>cultivator</ew><subj>AG</subj><hw>cul*ti*va*tor</hw><sound><wav>cultiv07.wav</wav><wpr>!kul-tu-+vA-tur</wpr></sound><pr>ˈkəl-tə-ˌvā-tər</pr><fl>noun</fl><def><date>1665</date><dt>:one that <fw>cultivates</fw></dt> <sd>especially</sd> <dt>:an implement for loosening the soil while crops are growing</dt></def></entry>
+	<entry id="rotary cultivator"><ew>rotary cultivator</ew><subj>AG</subj><hw>rotary cultivator</hw><fl>noun</fl><def><date>1926</date><dt>:<sx>rototiller</sx></dt></def></entry>
+</entry_list>

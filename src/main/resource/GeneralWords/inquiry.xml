@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="inquiry"><ew>inquiry</ew><subj>LW-2</subj><hw>in*qui*ry</hw><sound><wav>inquir04.wav</wav></sound><pr>in-ˈkwī(-ə)r-ē, ˈin-ˌ; ˈin-kwə-rē, ˈiŋ-; ˈin-ˌkwir-ē</pr><fl>noun</fl><in><il>plural</il> <if>in*qui*ries</if></in><et><dx_ety>(see <dxt>inquire</dxt>)</dx_ety></et><def><date>15th century</date> <sn>1</sn> <dt>:examination into facts or <d_link>principles</d_link> :<sx>research</sx></dt> <sn>2</sn> <dt>:a request for information</dt> <sn>3</sn> <dt>:a <d_link>systematic</d_link> investigation often of a matter of public interest</dt></def></entry>
+	<entry id="enquire"><ew>enquire</ew><hw>en*quire</hw><sound><wav>enquir01.wav</wav><wpr>in-!kwIr</wpr></sound><pr>in-ˈkwī(-ə)r</pr><ahw>en*qui*ry</ahw><pr>ˈin-ˌkwī(-ə)r-ē, in-ˈ; ˈin-kwə-rē, ˈiŋ-</pr><cx><cl>chiefly British variant of</cl> <ct>inquire</ct> <ct>inquiry</ct></cx></entry>
+	<entry id="court of inquiry"><ew>court of inquiry</ew><grp>court of</grp><grp>court inquiry</grp><grp>of inquiry</grp><subj>LW#ML</subj><hw>court of inquiry</hw><def><date>1757</date><dt>:a military court that inquires into and reports on some military matter (as an officer's questionable conduct)</dt></def></entry>
+</entry_list>
