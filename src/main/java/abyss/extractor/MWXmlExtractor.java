@@ -4,11 +4,13 @@ package abyss.extractor;
 import abyss.extractor.definition.WordDef;
 import org.dom4j.Attribute;
 import org.dom4j.Element;
+import org.dom4j.Node;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 
 /**
  * Created by Abyssss on 2016/11/28.
@@ -36,13 +38,13 @@ import java.util.regex.Pattern;
 
 public class MWXmlExtractor extends XmlExtractor {
 
-    Pattern pattern = null;
-    Matcher matcher = null;
+    private Pattern pattern = null;
+    private Matcher matcher = null;
 
     @Override
-    public void initExtractorByFile(String inputFileName){
+    public void initExtractorByFile(String inputFileName) {
         super.initExtractorByFile(inputFileName);
-        pattern = Pattern.compile("[a-z]+[[0-9]+]");
+        pattern = Pattern.compile("\\w+\\[\\d+\\]");
 
     }
 
@@ -50,68 +52,58 @@ public class MWXmlExtractor extends XmlExtractor {
      * extract : the main function of MWXmlExtractor
      * data : 2016-11-28
      * procedure:
-     *  1.get <entry_list> element
-     *  2.get all word definition elements -- the target <entry> element
-     *  3.for each <entry>, extract the first <df> content.
+     * 1.get <entry_list> element
+     * 2.get all word definition elements -- the target <entry> element
+     * 3.for each <entry>, extract the first <df> content.
      */
     public void extract() {
-
-        ArrayList<Element> myEntryList = null;
-
-        if(null != getEntryListElement()){
-            myEntryList = getAllEntryElements();
+        ArrayList<Element> myEntryElementList = null;
+        if (null != getEntryListElement()) {
+            myEntryElementList = getAllEntryElements();
         }
-
         ArrayList<WordDef> myWordDefList = new ArrayList<>();
-
-        System.out.println("the size of entryList is " + myEntryList.size());//test
-
-        for(Element ele:myEntryList){
-            WordDef wd = getWordDefFromEntry(ele);
-            System.out.println(wd.getDef());//test
-            if(null != wd){
-                myWordDefList.add(wd);
+        if(null != myEntryElementList) {
+            for (Element ele : myEntryElementList) {
+                WordDef wd = getWordDefFromEntry(ele);
+                if (null != wd) {
+                    myWordDefList.add(wd);
+                }
             }
+            fillWordDefArray(myWordDefList);
         }
-
-        fillWordDefArray(myWordDefList);
-
     }
 
     /**
      * actually, this function is used to check if the root is what we want.
      * so, maybe name it checkEntryListElement is better.
-     * @return
+     *
+     * @return Element
      */
-    private Element getEntryListElement(){
+    private Element getEntryListElement() {
 
         if (root == null) return null;
-
         List<Attribute> attrs = root.attributes();
         if (attrs != null && attrs.size() > 0) {
             for (Attribute attr : attrs) {
-                if(attr.getName().equals("version")){
+                if (attr.getName().equals("version")) {
                     return root;
                 }
             }
-        }
-        else{
+        } else {
             return null;
         }
         return null;
     }
 
-    private ArrayList<Element> getAllEntryElements(){
+    private ArrayList<Element> getAllEntryElements() {
         ArrayList<Element> elementList = new ArrayList<>();
-
         List<Element> childNodes = root.elements();
-
         for (Element e : childNodes) {
-            if(e.getName().equals("entry")) {
+            if (e.getName().equals("entry")) {
                 List<Attribute> attrs = e.attributes();
-                for(Attribute attr:attrs){
-                    if(attr.getName().equals("id")
-                            && checkTheIDPattern(attr.getValue())){
+                for (Attribute attr : attrs) {
+                    if (attr.getName().equals("id")
+                            && checkTheIDValue(attr.getValue())) {
                         elementList.add(e);
                         break;
                     }
@@ -121,7 +113,111 @@ public class MWXmlExtractor extends XmlExtractor {
         return elementList;
     }
 
-    private WordDef getWordDefFromEntry(Element wordEntry){
+    private WordDef getWordDefFromEntry(Element wordEntry) {
+        Element dt = (Element) wordEntry.selectSingleNode("def/dt");
+        String stringValue = dt.getStringValue();
+        String text = dt.getText();
+        if (dt != null && stringValue != null && !stringValue.equals("")
+                && text != null && !text.equals("")) {
+            String wordDef = null;
+            if (stringValue.equals(text)) {
+                wordDef = extractDefFromElement(dt);
+                return null;
+            } else {
+                wordDef = extractDefFromFuckingStructure(dt);
+                System.out.println("the final string is " + wordDef);
+                return null;
+            }
+        } else {
+            //something is wrong here.
+            //I need to make a error log, but not now.
+            return null;
+        }
+    }
+
+    private String extractDefFromElement(Element dt) {
+//        System.out.println("yes, i finished the easy work!!");
+        return null;
+    }
+
+    /**
+     * if some one have a better measure, please tell me!!!
+     *
+     * @param dt
+     * @return
+     */
+    private String extractDefFromFuckingStructure(Element dt) {
+
+        String stringValue = dt.getStringValue();
+
+        List<Element> childrenNodes = dt.elements();
+        int listSize = childrenNodes.size();
+
+        if (listSize > 0) {
+            ArrayList<String> strArray = new ArrayList<>();
+            for (Element e : childrenNodes) {
+                strArray.add(e.getStringValue());
+            }
+
+            //split the stringValue String of element by java.util.regex
+            String patternStr = makePattern(strArray);
+
+            Pattern pattern = Pattern.compile(patternStr);
+            Matcher matcher = pattern.matcher(stringValue);
+            matcher.matches();//hava nothing to say...
+
+            //use recursion to handle children elements' stringValue String
+            //and add normal parts and recursion parts together to a complete one
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.append(" ");//add the space before head and after tail
+            Boolean equalFlag = false;
+            for (int j1 = 1, i = matcher.groupCount(); j1 < i + 1; j1++) {
+                String part = matcher.group(j1);
+                for (int inside = 0; inside < listSize; inside++) {
+                    if (part.equals(strArray.get(inside))) {
+                        stringBuilder.append(
+                                extractDefFromFuckingStructure(childrenNodes.get(inside)));
+                        equalFlag = true;
+                        break;
+                    }
+                }
+                if (!equalFlag) {
+                    stringBuilder.append(part);
+                } else {
+                    equalFlag = false;//forget to change back...
+                }
+            }
+            stringBuilder.append(" ");//add the space after tail
+
+            //finally i get what i need.
+            return stringBuilder.toString();
+
+        } else if (listSize == 0) {
+            return " " + stringValue + " ";
+        } else {
+            return "";//useless
+        }
+
+    }
+
+    private String makePattern(ArrayList<String> strArray) {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("^");
+        for (String str : strArray) {
+            stringBuilder.append("(.*)(");
+            stringBuilder.append(str);
+            stringBuilder.append("){1}");
+        }
+        stringBuilder.append("(.*?)");
+        stringBuilder.append("$");
+        return stringBuilder.toString();
+    }
+
+    private String composeTheDefString(Element e) {
+        return null;
+    }
+
+    private String getDefinitionStringByRecursion(Node node) {
         return null;
     }
 
@@ -129,14 +225,37 @@ public class MWXmlExtractor extends XmlExtractor {
 
     }
 
-    private Boolean checkTheIDPattern(String value){
-        Matcher matcher = pattern.matcher(value);
-        boolean b= matcher.matches();
-        return false;
+    private Boolean checkTheIDValue(String value) {
+        matcher = pattern.matcher(value);
+        return matcher.matches();
     }
 
     @Override
-    public void addToWordDefList(WordDef wordDef){
+    public void addToWordDefList(WordDef wordDef) {
 
     }
 }
+
+/*
+public String getText() {
+        List list = this.getInternalDeclarations();
+        if(list != null && list.size() > 0) {
+            StringBuffer buffer = new StringBuffer();
+            Iterator iter = list.iterator();
+            if(iter.hasNext()) {
+                Object decl = iter.next();
+                buffer.append(decl.toString());
+
+                while(iter.hasNext()) {
+                    decl = iter.next();
+                    buffer.append("\n");
+                    buffer.append(decl.toString());
+                }
+            }
+
+            return buffer.toString();
+        } else {
+            return "";
+        }
+    }
+ */
