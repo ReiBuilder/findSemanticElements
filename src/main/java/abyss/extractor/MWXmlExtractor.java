@@ -4,7 +4,6 @@ package abyss.extractor;
 import abyss.extractor.definition.WordDef;
 import org.dom4j.Attribute;
 import org.dom4j.Element;
-import org.dom4j.Node;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,12 +39,12 @@ public class MWXmlExtractor extends XmlExtractor {
 
     private Pattern pattern = null;
     private Matcher matcher = null;
+    private String word;
 
-    @Override
-    public void initExtractorByFile(String inputFileName) {
-        super.initExtractorByFile(inputFileName);
-        pattern = Pattern.compile("\\w+\\[\\d+\\]");
 
+    public void setWord(String inputWord) {
+        word = inputWord;
+        pattern = Pattern.compile( word + "\\[\\d+\\]");
     }
 
     /**
@@ -61,6 +60,9 @@ public class MWXmlExtractor extends XmlExtractor {
         if (null != getEntryListElement()) {
             myEntryElementList = getAllEntryElements();
         }
+
+        System.out.println("the number of element is " + myEntryElementList.size());
+
         ArrayList<WordDef> myWordDefList = new ArrayList<>();
         if(null != myEntryElementList) {
             for (Element ele : myEntryElementList) {
@@ -122,10 +124,11 @@ public class MWXmlExtractor extends XmlExtractor {
             String wordDef = null;
             if (stringValue.equals(text)) {
                 wordDef = extractDefFromElement(dt);
+                System.out.println("the final string is>" + stringValue);
                 return null;
             } else {
                 wordDef = extractDefFromFuckingStructure(dt);
-                System.out.println("the final string is " + wordDef);
+                System.out.println("the final string is>" + wordDef);
                 return null;
             }
         } else {
@@ -136,7 +139,6 @@ public class MWXmlExtractor extends XmlExtractor {
     }
 
     private String extractDefFromElement(Element dt) {
-//        System.out.println("yes, i finished the easy work!!");
         return null;
     }
 
@@ -217,10 +219,6 @@ public class MWXmlExtractor extends XmlExtractor {
         return null;
     }
 
-    private String getDefinitionStringByRecursion(Node node) {
-        return null;
-    }
-
     private void fillWordDefArray(ArrayList<WordDef> myWordDefList) {
 
     }
@@ -234,28 +232,6 @@ public class MWXmlExtractor extends XmlExtractor {
     public void addToWordDefList(WordDef wordDef) {
 
     }
+
+
 }
-
-/*
-public String getText() {
-        List list = this.getInternalDeclarations();
-        if(list != null && list.size() > 0) {
-            StringBuffer buffer = new StringBuffer();
-            Iterator iter = list.iterator();
-            if(iter.hasNext()) {
-                Object decl = iter.next();
-                buffer.append(decl.toString());
-
-                while(iter.hasNext()) {
-                    decl = iter.next();
-                    buffer.append("\n");
-                    buffer.append(decl.toString());
-                }
-            }
-
-            return buffer.toString();
-        } else {
-            return "";
-        }
-    }
- */

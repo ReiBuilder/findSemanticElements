@@ -6,6 +6,9 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.InputStream;
 
 /**
@@ -39,10 +42,23 @@ public class XmlExtractor {
         root = null;
     }
 
-    public void initExtractorByFile(String inputFileName){
+    public void initExtractorByFile(String inputFileName) throws FileNotFoundException {
 
         clearExtractor();
-        in = XmlExtractor.class.getClassLoader().getResourceAsStream(inputFileName);
+        in = new BufferedInputStream(new FileInputStream(inputFileName));
+        Document doc = null;
+        try {
+            doc = reader.read(in);
+        } catch (DocumentException e) {
+            e.printStackTrace();
+            System.out.println("exception when read xml file: " + e.toString());
+        }
+        root = doc.getRootElement();
+    }
+
+    public void initExtractorByInputStream(InputStream myInputStream){
+        clearExtractor();
+        in = myInputStream;
         Document doc = null;
         try {
             doc = reader.read(in);
