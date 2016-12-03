@@ -24,5 +24,6 @@ Basically, semantic element has been divided into three categories.
 ## Use
 It's still a unfinished work.
 See demos for using.
+Fill **config.properties** base your own base.
 Within the expected time, the finding algorithm and found semantic elements will not be full open.
 
