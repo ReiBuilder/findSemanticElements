@@ -1,4 +1,4 @@
-package abyss;
+package abyss.demo;
 
 import abyss.extractor.MWXmlExtractor;
 import abyss.support.ConfigProvider;

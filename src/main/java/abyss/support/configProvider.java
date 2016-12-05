@@ -20,7 +20,7 @@ public class ConfigProvider {
     public ConfigProvider() throws IOException {
 
         Properties prop = new Properties();
-        InputStream in = new BufferedInputStream(new FileInputStream("src/config/mainConfig.properties"));
+        InputStream in = new BufferedInputStream(new FileInputStream("src/config/config.properties"));//for test
         prop.load(in);
 
         preUrl = prop.getProperty ("preUrl");
