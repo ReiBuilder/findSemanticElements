@@ -1,7 +1,7 @@
 package abyss.demo;
 
 import abyss.extractor.MWXmlExtractor;
-import abyss.support.ConfigProvider;
+import abyss.misc.ConfigProvider;
 import abyss.webService.MWWebService;
 
 import java.io.FileNotFoundException;

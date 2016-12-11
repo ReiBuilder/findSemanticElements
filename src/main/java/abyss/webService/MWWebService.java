@@ -1,6 +1,6 @@
 package abyss.webService;
 
-import abyss.support.ConfigProvider;
+import abyss.misc.ConfigProvider;
 
 import java.io.*;
 import java.net.URL;

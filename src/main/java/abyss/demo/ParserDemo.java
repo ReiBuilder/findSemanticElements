@@ -1,6 +1,6 @@
 package abyss.demo;
 
-import abyss.support.SentenceUtils;
+import abyss.misc.SentenceUtils;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.ling.HasWord;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;

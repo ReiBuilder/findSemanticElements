@@ -1,4 +1,4 @@
-package abyss.support;
+package abyss.misc;
 
 import edu.stanford.nlp.ling.*;
 

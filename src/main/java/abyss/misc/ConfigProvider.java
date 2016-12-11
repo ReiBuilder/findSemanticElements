@@ -1,4 +1,4 @@
-package abyss.support;
+package abyss.misc;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
