@@ -16,6 +16,7 @@ import java.util.List;
 
 /**
  * Created by Abyssss on 2016/12/11.
+ *
  */
 /*
 this class is use to analysis definition based grammar tree.
@@ -30,6 +31,9 @@ public class GTBAnalysor {
     private Tree currentParseResult;
     private WordPosPair currentWordPosPair;
 
+    //i don't sure that if the to-do list should be put here.
+    private ArrayList<WordPosPair> toDoList;
+
     public GTBAnalysor(SEGManager inputSegManage) {
         segManage = inputSegManage;
         tokenizerFactory = PTBTokenizer.factory(
@@ -37,14 +41,14 @@ public class GTBAnalysor {
         lp = LexicalizedParser.loadModel(parserModel);
         currentParseResult = null;
         currentWordPosPair = null;
-
+        toDoList = new ArrayList<>();
     }
 
     public void parse(String input){
         Tokenizer<CoreLabel> tok =
                 tokenizerFactory.getTokenizer(new StringReader(input));
         List<CoreLabel> rawWords = tok.tokenize();
-        currentParseResult = lp.apply(rawWords);
+        setCurrentParseResult(lp.apply(rawWords));
     }
 
     /**
@@ -133,7 +137,7 @@ public class GTBAnalysor {
         else if(children.length == 0)
         {
             //if the function has not return up level and reach leave level,
-            //it means the matching is fail
+            //it means the matching is failed
             return "";
         }
         else{
@@ -144,22 +148,88 @@ public class GTBAnalysor {
         }
     }
 
+
+    /**
+     *
+     * @param candidateWordList
+     * @param root
+     */
+    public void getCandidateWordsFromParseResult(ArrayList<WordPosPair> candidateWordList,
+             Tree root){
+        Tree[] children = root.children();
+        String pos = "";
+        String candidateWord = "";
+        if(children.length == 1)//it's similar to getWordPos
+        {
+            pos = root.label().value();
+            candidateWord = children[0].label().value();
+            if(pos.equals(currentWordPosPair.getPos()) && Double.isNaN(children[0].score())){
+                candidateWordList.add(new WordPosPair(candidateWord,pos));
+            }
+            else{
+                getCandidateWordsFromParseResult(candidateWordList,children[0]);
+            }
+        }
+        else if(children.length == 0)
+        {
+            //reach the leave level, and failed.
+            return ;
+        }
+        else{
+            for(Tree node:children){
+                getCandidateWordsFromParseResult(candidateWordList,node);
+            }
+        }
+    }
+
     /**
      * working!!
-     * @param wpPair
-     * @return
+     * @param candidateWordList
      */
-    public ArrayList<WordPosPair> getMatchWordPairFromParseResult
-            (WordPosPair wpPair){
-        return null;
+    public void processCandidateWords(ArrayList<WordPosPair> candidateWordList){
+
     }
 
     /**
-     * working/11
-     * @param suspectWordList
+     * be careful !! the function is to check the "NOT" state!
+     * if true, the word can be put into next stage.
+     * if false, it means: the word is a closed word
+     *                    or the process above is somewhere wrong!!
+     * @param wpp
+     * @return
      */
-    public void processEachSuspectWord(ArrayList<WordPosPair> suspectWordList){
-
+    public boolean checkIfNOTClosedWord(WordPosPair wpp){
+        String pos = wpp.getPos();
+        if(null != wpp && null != pos && pos.equals(""))
+        {
+            // || pos.equals("VBG")
+            if(pos.equals("IN") || pos.equals("DT")) {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+        else {
+            //it's misunderstanding on semantic.
+            return false;
+        }
     }
 
+    public Tree getCurrentParseResult() {
+        return currentParseResult;
+    }
+
+    public void setCurrentParseResult(Tree currentParseResult) {
+        this.currentParseResult = currentParseResult;
+    }
+
+    public WordPosPair getCurrentWordPosPair() {
+        return currentWordPosPair;
+    }
+
+    public void setCurrentWordPosPair(WordPosPair currentWordPosPair) {
+        this.currentWordPosPair = currentWordPosPair;
+    }
 }
