@@ -1,4 +1,4 @@
-package abyss.analysis;
+package abyss.analysis.patternSearcher;
 
 import abyss.analysis.support.WordPosPair;
 import abyss.semanticElementGraph.SEGManager;
